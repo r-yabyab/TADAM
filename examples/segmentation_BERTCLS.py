@@ -5,7 +5,7 @@ import argparse
 import numpy as np
 import os
 
-from pytorch_transformers import BertConfig,  BertModel, BertTokenizer
+from transformers import BertConfig,  BertModel, BertTokenizer
 from utils_segmentation import convert_examples_to_features, read_expamples_2
 WINDOW_SIZE = 2
 SEGMENT_JUMP_STEP = 2
@@ -151,7 +151,8 @@ def document_segmentation():
 
 parser = argparse.ArgumentParser()
 parser.add_argument("--lan",
-                    default='ch',
+                    # default='ch',
+                    default='en',
                     type=str,
                     help="The language of dataset")
 parser.add_argument("--datapath",
@@ -159,11 +160,34 @@ parser.add_argument("--datapath",
                     type=str,
                     help="The path of dataset")
 parser.add_argument("--berttype",
-                    default='bert-base-chinese',
+                    # default='bert-base-chinese',
+                    default='bert-base-uncased',
                     type=str,
                     help="The type of BERT")
+parser.add_argument("--input",
+                    default=None,
+                    type=str,
+                    help="Path to input JSON file (list of conversations) for segment_my_file")
+parser.add_argument("--output",
+                    default=None,
+                    type=str,
+                    help="Path to output JSON file for cut points from segment_my_file")
 args = parser.parse_args()
 
 
+# python segmentation_BERTCLS.py --input DATASET/en/my_conversations.json --output DATASET/en/cutlist_output.json
+def segment_my_file(input_json_path, output_json_path):
+    with open(input_json_path, 'r', encoding='utf-8') as f:
+        documents = json.load(f)
+    all_cut_list = segmentation(documents)
+    with open(output_json_path, 'w', encoding='utf-8') as f:
+        json.dump(all_cut_list, f, ensure_ascii=False)
+    print("Done. Cut points saved to", output_json_path)
+
+
 if __name__ == '__main__':
-    document_segmentation()
+    # document_segmentation()
+    if args.input and args.output:
+        segment_my_file(args.input, args.output)
+    else:
+        document_segmentation()
