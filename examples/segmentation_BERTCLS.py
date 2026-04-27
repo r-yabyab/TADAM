@@ -176,6 +176,7 @@ args = parser.parse_args()
 
 
 # python segmentation_BERTCLS.py --input DATASET/en/my_conversations.json --output DATASET/en/cutlist_output.json
+# python segmentation_BERTCLS.py --input ../data/pairs_plain.json --output ../data/pairs_plain_topics.json
 def segment_my_file(input_json_path, output_json_path):
     with open(input_json_path, 'r', encoding='utf-8') as f:
         documents = json.load(f)
