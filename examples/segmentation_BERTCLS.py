@@ -180,9 +180,27 @@ def segment_my_file(input_json_path, output_json_path):
     with open(input_json_path, 'r', encoding='utf-8') as f:
         documents = json.load(f)
     all_cut_list = segmentation(documents)
+
+    segmented_documents = []
+    for document, cut_list in zip(documents, all_cut_list):
+        segments = []
+        prev = 0
+        for cut in cut_list:
+            # just message
+            segments.append(document[prev:cut + 1])
+    
+            # adds line before message
+            # segment = [{"line": prev + i + 1, "content": document[prev + i]} for i in range(cut - prev + 1)]
+            # segments.append(segment)
+            
+            prev = cut + 1
+        segmented_documents.append(segments)
+
     with open(output_json_path, 'w', encoding='utf-8') as f:
-        json.dump(all_cut_list, f, ensure_ascii=False)
-    print("Done. Cut points saved to", output_json_path)
+        json.dump(segmented_documents, f, ensure_ascii=False, indent=2)
+    print("Done. Segmented text saved to", output_json_path)
+    #     json.dump(all_cut_list, f, ensure_ascii=False)
+    # print("Done. Cut points saved to", output_json_path)
 
 
 if __name__ == '__main__':

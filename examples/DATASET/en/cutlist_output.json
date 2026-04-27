@@ -1,0 +1,6120 @@
+[
+  [
+    [
+      {
+        "line": 1,
+        "content": "check the weather for the 7 day forecast"
+      },
+      {
+        "line": 2,
+        "content": "What city are you interested in?"
+      },
+      {
+        "line": 3,
+        "content": "Los Angeles, please. Will it be hot?"
+      },
+      {
+        "line": 4,
+        "content": "It will be hot today in Los Angeles."
+      }
+    ],
+    [
+      {
+        "line": 5,
+        "content": "Yes, can you give me the information on the Huntingdon Marriott Hotel?"
+      },
+      {
+        "line": 6,
+        "content": "Absolutely. It is an expensive hotel located in the west part of town. It has 4 starts and includes free wifi and parking. Would you like help booking a room?"
+      }
+    ],
+    [
+      {
+        "line": 7,
+        "content": "Yes please, I need a reservation for 6 people for 5 nights starting on Saturday."
+      },
+      {
+        "line": 8,
+        "content": "Sorry, there are not enough rooms available for that time period. Perhaps a different day or a shorter stay might yield better results."
+      },
+      {
+        "line": 9,
+        "content": "How about for 1 night? If that works, I'll need a reference number of course."
+      },
+      {
+        "line": 10,
+        "content": "Booking was successful. Your reference number is : OO8QDA62."
+      }
+    ],
+    [
+      {
+        "line": 11,
+        "content": "I need a train from London Kings Cross to Cambridge."
+      },
+      {
+        "line": 12,
+        "content": "I have 70 trains travelling that route. To narrow it down, what day would you like to leave and what time would you like to depart/arrive?"
+      },
+      {
+        "line": 13,
+        "content": "sure, I would like to go on Saturday, and arrive by 20:20. As close to that time as I can arrive."
+      },
+      {
+        "line": 14,
+        "content": "I have a 19:17 from London that arrives at 20:08. Would that work for you?"
+      }
+    ],
+    [
+      {
+        "line": 15,
+        "content": "Yes, let me have 7 tickets, please."
+      },
+      {
+        "line": 16,
+        "content": "Booking was successful, the total fee is 132.16 GBP payable at the station. Reference number is : QMD5P3EG. Is there anything else I can help you with?"
+      }
+    ],
+    [
+      {
+        "line": 17,
+        "content": "I need to find a shopping center."
+      },
+      {
+        "line": 18,
+        "content": "The Stanford Shopping Center at 773 Alger Dr is 3 miles away in no traffic. Would you like directions there?"
+      },
+      {
+        "line": 19,
+        "content": "Yes please."
+      },
+      {
+        "line": 20,
+        "content": "I sent all the info on the screen, please drive carefully!"
+      }
+    ],
+    [
+      {
+        "line": 21,
+        "content": "Schedule meeting."
+      },
+      {
+        "line": 22,
+        "content": "What details shall I add to your meeting reminder?"
+      },
+      {
+        "line": 23,
+        "content": "Please set it for the 13th at 11am. It is going to be with management and to discuss our company picnic. Thank you."
+      },
+      {
+        "line": 24,
+        "content": "Reminder set for your meeting at 11am on the 13th with management to discuss your company picnic. Is there anything else?"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "line": 1,
+        "content": "Can you help me find a restaurant that serves greek food and is expensive?"
+      },
+      {
+        "line": 2,
+        "content": "I apologize but there are no expensive greek restaurants listed, would you like to try a different food type or price range?"
+      },
+      {
+        "line": 3,
+        "content": "Do you have any Indian restaurants?"
+      },
+      {
+        "line": 4,
+        "content": "We have 14 indian restaurants in the expensive category. Do you have any more information to narrow down the search?"
+      },
+      {
+        "line": 5,
+        "content": "I do not. Is there one you can recommend?"
+      },
+      {
+        "line": 6,
+        "content": "I can recommend one for you, but first is there a particular part of town you would like to travel too?"
+      }
+    ],
+    [
+      {
+        "line": 7,
+        "content": "Any part of town is fine, I just need the address and postcode of one you'd recommend."
+      },
+      {
+        "line": 8,
+        "content": "I would recommend the Maharajah Tandoori Restaurant. It's in the west end. The address is 41518 Castle Street City Centre. The postcode is cb30ah. Shall I make a booking?"
+      }
+    ],
+    [
+      {
+        "line": 9,
+        "content": "Car I need to get at my friends house near my current location, please send me their address on the screen"
+      },
+      {
+        "line": 10,
+        "content": "Tom lives at 580 Van Ness Ave."
+      },
+      {
+        "line": 11,
+        "content": "looking for a place to dine. The restaurant should serve british food and should be in the expensive price range."
+      },
+      {
+        "line": 12,
+        "content": "Fitzbillies restaurant at 51 Trumpington Street City Centre fits your request. Would you like me to book a table for you?"
+      },
+      {
+        "line": 13,
+        "content": "I would. It's a party of 6 for Monday at 15:45. Can I get the reference number when you're done?"
+      },
+      {
+        "line": 14,
+        "content": "Your reservation has been made. The reference number is GK4F8AFS. Is there anything else I can help you with?"
+      }
+    ],
+    [
+      {
+        "line": 15,
+        "content": "No, that's everything. Thanks for your help."
+      },
+      {
+        "line": 16,
+        "content": "welcome next time"
+      },
+      {
+        "line": 17,
+        "content": "Im looking for a shopping mall around here."
+      },
+      {
+        "line": 18,
+        "content": "The Topanga mall is 4 miles away."
+      }
+    ],
+    [
+      {
+        "line": 19,
+        "content": "What is the address?"
+      },
+      {
+        "line": 20,
+        "content": "The address to Topanga mall is 171 Oak Rd."
+      },
+      {
+        "line": 21,
+        "content": "Set GPS for the quickest route to get there."
+      },
+      {
+        "line": 22,
+        "content": "GPS set for quickest route to Topanga Mall."
+      },
+      {
+        "line": 23,
+        "content": "Is there rain on Sunday"
+      },
+      {
+        "line": 24,
+        "content": "What city would you like the forecast for?"
+      }
+    ],
+    [
+      {
+        "line": 25,
+        "content": "Compton."
+      },
+      {
+        "line": 26,
+        "content": "It will not rain on Saturday in Compton."
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "line": 1,
+        "content": "Schedule a meeting today at 9 am with management to discuss the company picnic."
+      },
+      {
+        "line": 2,
+        "content": "Setting reminder for meeting with management to discuss company picnic for today at 9 am."
+      }
+    ],
+    [
+      {
+        "line": 3,
+        "content": "Thanks!"
+      },
+      {
+        "line": 4,
+        "content": "You are welcome."
+      },
+      {
+        "line": 5,
+        "content": "what will the weather be like in the city"
+      },
+      {
+        "line": 6,
+        "content": "What city do you want the weather for?"
+      }
+    ],
+    [
+      {
+        "line": 7,
+        "content": "The 7 day for Fresno please."
+      },
+      {
+        "line": 8,
+        "content": "In Fresno, it will be misty Monday foggy Tuesday, humid Wednesday, drizzle Thursday, clear Friday, hail Saturday and be windy Sunday."
+      }
+    ],
+    [
+      {
+        "line": 9,
+        "content": "I'm looking for a train departing from ely."
+      },
+      {
+        "line": 10,
+        "content": "On what day do you wish to travel and to what destination?"
+      },
+      {
+        "line": 11,
+        "content": "I'd like to travel to Cambridge on Wednesday, but I don't want to leave before noon."
+      },
+      {
+        "line": 12,
+        "content": "I have a train to Cambridge leaving Ely at 13:35. Will this work for you?"
+      },
+      {
+        "line": 13,
+        "content": "That should work. I need booking for 2 people and I will need the reference number, please."
+      },
+      {
+        "line": 14,
+        "content": "I have booked two spots for you. The reference number is IU3F4FKV"
+      }
+    ],
+    [
+      {
+        "line": 15,
+        "content": "Wonderful. Thank you."
+      },
+      {
+        "line": 16,
+        "content": "You're welcome. Is there anything else you may need?"
+      }
+    ],
+    [
+      {
+        "line": 17,
+        "content": "Good evening. Can you help me find a guesthouse to stay at for the weekend?"
+      },
+      {
+        "line": 18,
+        "content": "acorn guest house is in the north part of town and available, when would you like to stay?"
+      }
+    ],
+    [
+      {
+        "line": 19,
+        "content": "Does it have free WiFi?"
+      },
+      {
+        "line": 20,
+        "content": "Yes, it does! It also has free parking."
+      },
+      {
+        "line": 21,
+        "content": "Could I get the phone number for them."
+      },
+      {
+        "line": 22,
+        "content": "Phone number is 01223353888."
+      },
+      {
+        "line": 23,
+        "content": "Thanks. Oh, I forgot to ask, is that in the moderate price range?"
+      },
+      {
+        "line": 24,
+        "content": "The Acorn guesthouse is in the moderate range. Would you like to book a room?"
+      }
+    ],
+    [
+      {
+        "line": 25,
+        "content": "what is the temperature outside"
+      },
+      {
+        "line": 26,
+        "content": "Where are you located?"
+      }
+    ],
+    [
+      {
+        "line": 27,
+        "content": "What is the temperature in Camarillo right now?"
+      },
+      {
+        "line": 28,
+        "content": "Right now the temperature in Camarillo is a low of 50F and a high of 70F."
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "line": 1,
+        "content": "I need a taxi to come after 19:30."
+      },
+      {
+        "line": 2,
+        "content": "Where would you like to be picked up from?"
+      },
+      {
+        "line": 3,
+        "content": "I am in wandlebury country park."
+      },
+      {
+        "line": 4,
+        "content": "Where will you be going to?"
+      }
+    ],
+    [
+      {
+        "line": 5,
+        "content": "I'll be going to meze bar restaurant."
+      },
+      {
+        "line": 6,
+        "content": "You are booked on a red lexus ."
+      },
+      {
+        "line": 7,
+        "content": "Great. Can I get a contact number?"
+      },
+      {
+        "line": 8,
+        "content": "Yes, your contact number is 07236149315. Do you need other bookings?"
+      }
+    ],
+    [
+      {
+        "line": 9,
+        "content": "Where is the nearest hospital?"
+      },
+      {
+        "line": 10,
+        "content": "Stanford Childrens Health is the only hospital I can find. It is located at 899 Ames Ct which is 6 miles away, but there is a road block near it."
+      },
+      {
+        "line": 11,
+        "content": "Oh no I have to get there, what's the address?"
+      },
+      {
+        "line": 12,
+        "content": "The address is 899 Ames Ct, I sent the best route on your screen"
+      }
+    ],
+    [
+      {
+        "line": 13,
+        "content": "I'm looking for a restaurant in the south that serves international food."
+      },
+      {
+        "line": 14,
+        "content": "Unfortunately, I was unable to find a restaurant in the south that serves international cuisine. Is there another type of cuisine that would interest you?"
+      },
+      {
+        "line": 15,
+        "content": "No, I really need a restaurant in the south that serves international food."
+      },
+      {
+        "line": 16,
+        "content": "There is international food in the east and centre of town. The south has many cuisines but no international food."
+      }
+    ],
+    [
+      {
+        "line": 17,
+        "content": "Are there any restaurants in the south that serve Indian food?"
+      },
+      {
+        "line": 18,
+        "content": "Taj tandoori is a Indian place that is in the south. The number is 01223412299."
+      },
+      {
+        "line": 19,
+        "content": "Will you please book a table for 4 people at 16:15 on wednesday?"
+      },
+      {
+        "line": 20,
+        "content": "Unfortunately, the time and day you've chosen is unavailable. Would you like to book a different time or day?"
+      }
+    ],
+    [
+      {
+        "line": 21,
+        "content": "We can go earlier. How about 15:15, please?"
+      },
+      {
+        "line": 22,
+        "content": "Booking was successful for 15:15. The table will be reserved for 15 minutes. Your reference number is XQA73LQL. Anything else?"
+      },
+      {
+        "line": 23,
+        "content": "I am looking for a train to Cambridge."
+      },
+      {
+        "line": 24,
+        "content": "When will you be travelling?"
+      }
+    ],
+    [
+      {
+        "line": 25,
+        "content": "I'll be leaving Friday after 20:45."
+      },
+      {
+        "line": 26,
+        "content": "I have several options for you depending on your departure site. Where will you be leaving from?"
+      },
+      {
+        "line": 27,
+        "content": "I need to depart from Cabridge and go to Bishops Stortford."
+      },
+      {
+        "line": 28,
+        "content": "There are few options to choose from. How many people are traveling?"
+      },
+      {
+        "line": 29,
+        "content": "I will have 2 people traveling."
+      },
+      {
+        "line": 30,
+        "content": "Okay, would you like me to book TR4664?"
+      }
+    ],
+    [
+      {
+        "line": 31,
+        "content": "Yes, please. I need the reference number."
+      },
+      {
+        "line": 32,
+        "content": "The reference number is 0JI02QOT. Can I help you with anything else?"
+      }
+    ],
+    [
+      {
+        "line": 33,
+        "content": "Can you give me the price for a large pizza and what type of pizzas they offer at Pizza Express fen ditton please"
+      },
+      {
+        "line": 34,
+        "content": "Would you like to book a reservation at Pizza Express?"
+      }
+    ],
+    [
+      {
+        "line": 35,
+        "content": "What is the price range of Pizza Express?"
+      },
+      {
+        "line": 36,
+        "content": "Pizza Express Fen Ditton is in the moderate price range."
+      },
+      {
+        "line": 37,
+        "content": "What is the food type at Pizza Express?"
+      },
+      {
+        "line": 38,
+        "content": "It is italian food."
+      }
+    ],
+    [
+      {
+        "line": 39,
+        "content": "Okay, thank you."
+      },
+      {
+        "line": 40,
+        "content": "Would you like me to book it for you?"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "line": 1,
+        "content": "I need a taxi to take me to yippee noodle bar by 9:45"
+      },
+      {
+        "line": 2,
+        "content": "Absolutely, where will the taxi be picking you up from today?"
+      },
+      {
+        "line": 3,
+        "content": "The Rajmahal please"
+      },
+      {
+        "line": 4,
+        "content": "All right, a blue skoda will come for you. Should you need to contact them, the number is 07714291108."
+      },
+      {
+        "line": 5,
+        "content": "Can you find me the closest hospital to me?"
+      },
+      {
+        "line": 6,
+        "content": "The closest hospital, Stanford Express Care is 8 miles from your location"
+      }
+    ],
+    [
+      {
+        "line": 7,
+        "content": "How's the traffic?"
+      },
+      {
+        "line": 8,
+        "content": "There is a car collision nearby."
+      },
+      {
+        "line": 9,
+        "content": "Can we avoid the collision?"
+      },
+      {
+        "line": 10,
+        "content": "Yes, I can help you avoid the collision."
+      }
+    ],
+    [
+      {
+        "line": 11,
+        "content": "Great, please give me the address and details via the quickest route."
+      },
+      {
+        "line": 12,
+        "content": "The address is 214 El Camino Real, I highlighted it on your map together with the quickest route"
+      }
+    ],
+    [
+      {
+        "line": 13,
+        "content": "is it going to rain sometime this week"
+      },
+      {
+        "line": 14,
+        "content": "What city are you inquiring about?"
+      },
+      {
+        "line": 15,
+        "content": "Redwood City, please."
+      },
+      {
+        "line": 16,
+        "content": "It will drizzle on Wednesday and Thursday in Redwood City."
+      }
+    ],
+    [
+      {
+        "line": 17,
+        "content": "I'm hurt and I need the nearest hospital."
+      },
+      {
+        "line": 18,
+        "content": "The nearest hospital is Addenbrookes Hospital."
+      },
+      {
+        "line": 19,
+        "content": "Can I get the address and phone number?"
+      },
+      {
+        "line": 20,
+        "content": "I'm just going to call an ambulance."
+      },
+      {
+        "line": 21,
+        "content": "No thank you, just give me the address, postcode, and phone number please."
+      },
+      {
+        "line": 22,
+        "content": "Addesbrookes Hospital is located on Hills Rd with the postcode CB20QQ. The direct phone number for the emergency department is 01223217118. Are you sure I can't book you an ambulance?"
+      }
+    ],
+    [
+      {
+        "line": 23,
+        "content": "Will it be humid in San Jose next week?"
+      },
+      {
+        "line": 24,
+        "content": "It will be humid on Tuesday and Sunday in San Jose."
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "line": 1,
+        "content": "Hi, I'm looking for an expensive restaurant."
+      },
+      {
+        "line": 2,
+        "content": "Okay, we have 57 restaurants in that price range. Are you looking for a place in a certain part of town?"
+      },
+      {
+        "line": 3,
+        "content": "I'd like something in the centre if possible."
+      },
+      {
+        "line": 4,
+        "content": "Most of the expensive restaurants in Cambridge happen to be in the center of town! Would you like to try some British food at Fitzbillies?"
+      },
+      {
+        "line": 5,
+        "content": "That sounds nice! Can I just get their phone number, address, and postcode?"
+      },
+      {
+        "line": 6,
+        "content": "The address is 51 Trumpington Street City Centre, the phone number is 01223352500, and the postcode is cb21rg. Is there anything else I can help you with today?"
+      }
+    ],
+    [
+      {
+        "line": 7,
+        "content": "Can you book me a taxi to riverside brasserie?"
+      },
+      {
+        "line": 8,
+        "content": "Sure! Where are you coming from?"
+      }
+    ],
+    [
+      {
+        "line": 9,
+        "content": "I will be leaving the good luck chinese food takeaway."
+      },
+      {
+        "line": 10,
+        "content": "Ok, what time would you like to leave by?"
+      },
+      {
+        "line": 11,
+        "content": "I actually need to arrive by 12:45"
+      },
+      {
+        "line": 12,
+        "content": "Your booking is completed, a grey honda will be picking you up. The contact number is 07290151077."
+      }
+    ],
+    [
+      {
+        "line": 13,
+        "content": "What will the high temperature be for Los Angeles?"
+      },
+      {
+        "line": 14,
+        "content": "Today there is going to be frost in Los Angeles. Would you like to know about some other day?"
+      },
+      {
+        "line": 15,
+        "content": "What will the highest temperature be on Monday?"
+      },
+      {
+        "line": 16,
+        "content": "The high in Los Angeles will be 50F on Monday."
+      }
+    ],
+    [
+      {
+        "line": 17,
+        "content": "Could you please get me a train?"
+      },
+      {
+        "line": 18,
+        "content": "Sure I can help you find a train. Where are you needing to go and where are you coming from? What time do you need to leave by?"
+      },
+      {
+        "line": 19,
+        "content": "I am leaving Leicester and I need to leave by 20:30."
+      },
+      {
+        "line": 20,
+        "content": "What is your destination and day of travel?"
+      }
+    ],
+    [
+      {
+        "line": 21,
+        "content": "Cambridge and on friday. Can I just get the travel time for the train? Thanks!"
+      },
+      {
+        "line": 22,
+        "content": "The first train leaving after 20:30 is 21:09 and the travel time is 105 minutes."
+      }
+    ],
+    [
+      {
+        "line": 23,
+        "content": "That sounds perfect, thank you for your help."
+      },
+      {
+        "line": 24,
+        "content": "Would you like me to book it for you?"
+      },
+      {
+        "line": 25,
+        "content": "No, that's OK, I'll get my tickets at the station. I just needed information."
+      },
+      {
+        "line": 26,
+        "content": "Can I assist you with anything else today?"
+      },
+      {
+        "line": 27,
+        "content": "No, that's all. Thanks."
+      },
+      {
+        "line": 28,
+        "content": "I'm sorry, I think I misunderstood you. You want to leave before 20:30. You should book TR2602, leaving at 20:09. Travel time is 105 minutes."
+      }
+    ],
+    [
+      {
+        "line": 29,
+        "content": "Hi I need a taxi to jesus green outdoor pool, but I can't leave until after 18:30. Can you help?"
+      },
+      {
+        "line": 30,
+        "content": "I'd be happy to help! Where are you coming from?"
+      },
+      {
+        "line": 31,
+        "content": "I will be leaving from the Fitzbillies restaurant."
+      },
+      {
+        "line": 32,
+        "content": "I have confirmed your taxi, a blue tesla will be picking you up at 18:30."
+      },
+      {
+        "line": 33,
+        "content": "Awesome. Can I have the contact number?"
+      },
+      {
+        "line": 34,
+        "content": "Of course. The contact number is 07613765039."
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "line": 1,
+        "content": "I am looking for a guesthouse to stay in over the weekend. I don't need internet or free parking."
+      },
+      {
+        "line": 2,
+        "content": "How about the Avalon?"
+      },
+      {
+        "line": 3,
+        "content": "The Avalon sounds good. What is the address?"
+      },
+      {
+        "line": 4,
+        "content": "The Avalon is located at 62 Gilbert Road, CB43PD. Would you like me to book this for you?"
+      }
+    ],
+    [
+      {
+        "line": 5,
+        "content": "I need a taxi to go to cambridge punter."
+      },
+      {
+        "line": 6,
+        "content": "I can help you with that, where are you departing from?"
+      }
+    ],
+    [
+      {
+        "line": 7,
+        "content": "I'm leaving from addenbrookes hospital."
+      },
+      {
+        "line": 8,
+        "content": "What time would you like to leave addenbrookes hospital?"
+      },
+      {
+        "line": 9,
+        "content": "I want to leave the hospital after 08:15, please."
+      },
+      {
+        "line": 10,
+        "content": "Your taxi is booked. Look for a blue Toyota."
+      },
+      {
+        "line": 11,
+        "content": "What is the contact number for the blue Toyota?"
+      },
+      {
+        "line": 12,
+        "content": "The contact number is 07738411271. Is there anything else we can help you with?"
+      }
+    ],
+    [
+      {
+        "line": 13,
+        "content": "I need to book a train for 8:45 to go to london kings crossing."
+      },
+      {
+        "line": 14,
+        "content": "What day are you planning to travel?"
+      }
+    ],
+    [
+      {
+        "line": 15,
+        "content": "I would like to travel on Friday."
+      },
+      {
+        "line": 16,
+        "content": "I'm sorry I dont' have any trains for that day. Would you like to leave at a different time?"
+      }
+    ],
+    [
+      {
+        "line": 17,
+        "content": "I will be leaving from Cambridge on Friday."
+      },
+      {
+        "line": 18,
+        "content": "The earliest train I have is at 09:00. Is that ok?"
+      },
+      {
+        "line": 19,
+        "content": "That's fine. Can you give me the arrival time, travel time, and train ID please?"
+      },
+      {
+        "line": 20,
+        "content": "TR2000 takes 51 minutes to arrive at by 9:51. Would you like me to reserve this for you?"
+      }
+    ],
+    [
+      {
+        "line": 21,
+        "content": "Will it be hail in Cleveland on Sunday?"
+      },
+      {
+        "line": 22,
+        "content": "There will not be hail in Cleveland on Sunday."
+      },
+      {
+        "line": 23,
+        "content": "I am looking for a place to stay. The hotel should have a star of 2 and should be in the moderate price range"
+      },
+      {
+        "line": 24,
+        "content": "There are two such hotels in the north area. The first is the ashley hotel and the second is the lovell lodge. Do you have a preference?"
+      }
+    ],
+    [
+      {
+        "line": 25,
+        "content": "I don't have a preference, actually. Which one do you recommend?"
+      },
+      {
+        "line": 26,
+        "content": "They both have internet and parking, so it is really up to you."
+      }
+    ],
+    [
+      {
+        "line": 27,
+        "content": "I choose the ashley hotel. What is their address, please?"
+      },
+      {
+        "line": 28,
+        "content": "The number for the Ashley Hotel is 01223350059. Can I book that for you?"
+      }
+    ],
+    [
+      {
+        "line": 29,
+        "content": "No, I just need the address."
+      },
+      {
+        "line": 30,
+        "content": "That hotel is located at 74 chesterton road."
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "line": 1,
+        "content": "does the forecast say it will snow"
+      },
+      {
+        "line": 2,
+        "content": "What city do you want to know the forecast for?"
+      },
+      {
+        "line": 3,
+        "content": "Will it snow in Seattle today?"
+      },
+      {
+        "line": 4,
+        "content": "It will not snow in Seattle today."
+      }
+    ],
+    [
+      {
+        "line": 5,
+        "content": "I am looking for a mexican restaurant in the centre."
+      },
+      {
+        "line": 6,
+        "content": "I'm sorry, there aren't any Mexican restaurants in the centre of town. Would you like to try a different cuisine?"
+      },
+      {
+        "line": 7,
+        "content": "How about an Indian restaurant then?"
+      },
+      {
+        "line": 8,
+        "content": "There is the curry garden which serves indian food in the centre. Would you like to make a booking?"
+      }
+    ],
+    [
+      {
+        "line": 9,
+        "content": "Oh, no, but I do need the postcode address and number."
+      },
+      {
+        "line": 10,
+        "content": "Curry Garden's phone number is 01223302330. They are located at 106 Regent Street City Centre. The postcode is cb21dp. Would you like me to book you a table?"
+      }
+    ],
+    [
+      {
+        "line": 11,
+        "content": "No really, I don't need a booking."
+      },
+      {
+        "line": 12,
+        "content": "No problem. Is there anything else I can help you with today?"
+      },
+      {
+        "line": 13,
+        "content": "I need to schedule a taxi to da vinci pizzeria from tandoori palace."
+      },
+      {
+        "line": 14,
+        "content": "Ok, what time do you want to leave by?"
+      }
+    ],
+    [
+      {
+        "line": 15,
+        "content": "I would like to leave after 22:15."
+      },
+      {
+        "line": 16,
+        "content": "Booking completed! A blue volvo will be picking you up, the Contact number is: 07185148788."
+      },
+      {
+        "line": 17,
+        "content": "Ok thank you!"
+      },
+      {
+        "line": 18,
+        "content": "You're welcome, do you need any further assistance?"
+      },
+      {
+        "line": 19,
+        "content": "I would like to try saigon city."
+      },
+      {
+        "line": 20,
+        "content": "Great choice. When can I make the reservation for?"
+      }
+    ],
+    [
+      {
+        "line": 21,
+        "content": "5 people on a Wednesday at 19:45."
+      },
+      {
+        "line": 22,
+        "content": "You got it. Here is your reference number: P9D58C0O."
+      }
+    ],
+    [
+      {
+        "line": 23,
+        "content": "Will it be misty in Redwood City during the upcoming seven day period?"
+      },
+      {
+        "line": 24,
+        "content": "There is no mist in the forecast for Redwood City over the next 7 days."
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "line": 1,
+        "content": "Hi, can you help me find a guesthouse? I need free parking."
+      },
+      {
+        "line": 2,
+        "content": "I found 21 results. What side of town would you like?"
+      },
+      {
+        "line": 3,
+        "content": "I would prefer the north side of town please."
+      },
+      {
+        "line": 4,
+        "content": "There are quite a lot of them in that area. Do you have a price range in mind, or a particular star rating you'd like me to look for?"
+      },
+      {
+        "line": 5,
+        "content": "Not really. I just need a hotel that can accommodate 6 people for 5 nights, starting Sunday."
+      },
+      {
+        "line": 6,
+        "content": "Unfortunately, booking within your criteria was unsuccessful at all hotels. Could you change your number of days?"
+      }
+    ],
+    [
+      {
+        "line": 7,
+        "content": "Would you try 1 night for 6 people on Sunday, please?"
+      },
+      {
+        "line": 8,
+        "content": "I have you booked at acorn guest house. Reference number is: IDAIIS1T."
+      },
+      {
+        "line": 9,
+        "content": "Brilliant! Thank you."
+      },
+      {
+        "line": 10,
+        "content": "Is there anything else I can help you with today?"
+      }
+    ],
+    [
+      {
+        "line": 11,
+        "content": "Find a parking garage."
+      },
+      {
+        "line": 12,
+        "content": "There is 2 local parking garage's; both are 3 miles away. Palo Alto Garage has moderate traffic and Stanford Oval has no traffic. Which one do you prefer?"
+      },
+      {
+        "line": 13,
+        "content": "Stanford Oval please."
+      },
+      {
+        "line": 14,
+        "content": "Alright, Stanford Oval Parking is located at 610 Amarillo Ave"
+      },
+      {
+        "line": 15,
+        "content": "Will it be dry in Fresno on Sunday?"
+      },
+      {
+        "line": 16,
+        "content": "No, on Sunday in Fresno there will be a blizzard."
+      }
+    ],
+    [
+      {
+        "line": 17,
+        "content": "Can you give me the contact info for the nearest police station?"
+      },
+      {
+        "line": 18,
+        "content": "Sure! The Parkside Police Station is located at Parkside, Cambridge and can be reached at 01223358966."
+      },
+      {
+        "line": 19,
+        "content": "Hello, I'm looking for a train to get me to london kings cross."
+      },
+      {
+        "line": 20,
+        "content": "Ok. Will you be departing from Cambridge?"
+      },
+      {
+        "line": 21,
+        "content": "Yes, Cambridge and I want to leave on Sunday. I need travel time"
+      },
+      {
+        "line": 22,
+        "content": "Travel time is 51 minutes. What time were you hoping to leave?"
+      }
+    ],
+    [
+      {
+        "line": 23,
+        "content": "I would like to leave after 13:45."
+      },
+      {
+        "line": 24,
+        "content": "There is a train that leaves at 15:00 would you like me to book that train for you?"
+      },
+      {
+        "line": 25,
+        "content": "No thanks, I just needed the travel time for the train departing at 15:00."
+      },
+      {
+        "line": 26,
+        "content": "The travel time for TR 9386 is 51 minutes."
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "line": 1,
+        "content": "Yes, I'd like to book three nights, for three people, at the Worth House hotel."
+      },
+      {
+        "line": 2,
+        "content": "What day will you be checking in?"
+      }
+    ],
+    [
+      {
+        "line": 3,
+        "content": "I would be arriving Sunday."
+      },
+      {
+        "line": 4,
+        "content": "Ok. The booking was successful. Your reference number is M15ZT8QM."
+      },
+      {
+        "line": 5,
+        "content": "I need to book a taxi to take me from Mumford Theatre to go to Darry's Cookhouse and Wine Shop."
+      },
+      {
+        "line": 6,
+        "content": "Ok, what time do you want to leave?"
+      },
+      {
+        "line": 7,
+        "content": "I need to get there by 24:45."
+      },
+      {
+        "line": 8,
+        "content": "Your booking is complte, a grey lexus will pick you up. The contact number is 07486674737. Do you need any further assistance?"
+      }
+    ],
+    [
+      {
+        "line": 9,
+        "content": "Could I ask for your help in finding a guesthouse to put my friends up in nearby?"
+      },
+      {
+        "line": 10,
+        "content": "Of course! Cambridge boasts many wonderful guesthouses. What did you have in mind?"
+      },
+      {
+        "line": 11,
+        "content": "Some place moderately priced, with free wifi."
+      },
+      {
+        "line": 12,
+        "content": "I have 14 options spread out all over town. Do you have a preference as to the area you want to stay?"
+      }
+    ],
+    [
+      {
+        "line": 13,
+        "content": "I don't have a preference. Which one looks best to you?"
+      },
+      {
+        "line": 14,
+        "content": "The A and B Guest House is on the east side of town and has 4 stars. Would you like me to book it for you?"
+      },
+      {
+        "line": 15,
+        "content": "No thank you, that is all I needed. Have a great day!"
+      },
+      {
+        "line": 16,
+        "content": "You're welcome. Please contact us if you need more information or would like to make a reservation. Have a wonderful day!"
+      }
+    ],
+    [
+      {
+        "line": 17,
+        "content": "Hello, I need information on the parkside police station."
+      },
+      {
+        "line": 18,
+        "content": "The phone number for Parkside Police Station is 01223358966, address Parkside, Cambridge, CB11JG."
+      }
+    ],
+    [
+      {
+        "line": 19,
+        "content": "amazing, thanks for your help"
+      },
+      {
+        "line": 20,
+        "content": "Do you want me to call 911?"
+      }
+    ],
+    [
+      {
+        "line": 21,
+        "content": "I would like to book a taxi from the hamilton lodge to restaurant one seven."
+      },
+      {
+        "line": 22,
+        "content": "Ok, what time do you want to leave."
+      },
+      {
+        "line": 23,
+        "content": "I'd like to arrive by 21:30."
+      },
+      {
+        "line": 24,
+        "content": "Booking completed! Anything else I can help with today? Booked car type : grey volkswagen Contact number : 07966585521"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "line": 1,
+        "content": "I'm looking for a cheap place to dine. I want it to be on the west side of town."
+      },
+      {
+        "line": 2,
+        "content": "There are two cheap restaurants on the west side, one Italian and one Vietnamese. Do you have a preference?"
+      }
+    ],
+    [
+      {
+        "line": 3,
+        "content": "Shucks. No Polish?"
+      },
+      {
+        "line": 4,
+        "content": "No, sorry we have no cheap Polish restaurants in the west of town, would you like me to look in a different area or price range?"
+      },
+      {
+        "line": 5,
+        "content": "I suppose Italian might suffice. Do you have any listings for cheap Italian restaurants on the west side?"
+      },
+      {
+        "line": 6,
+        "content": "I do have la margherita that meets your requests. Would you like me to book a table for you?"
+      },
+      {
+        "line": 7,
+        "content": "no, but could you please give me the address and the phone number?"
+      },
+      {
+        "line": 8,
+        "content": "Certainly. La Margherita is located at 15 Magdalene Street City Centre and their phone number is 01223315232. Is there anything else I can help you with today?"
+      }
+    ],
+    [
+      {
+        "line": 9,
+        "content": "Are there any places that offer rooms in the north that also give free wifi, or do you have to go to other parts of town for that?"
+      },
+      {
+        "line": 10,
+        "content": "which has free wifi?"
+      }
+    ],
+    [
+      {
+        "line": 11,
+        "content": "The hotel should include free wifi"
+      },
+      {
+        "line": 12,
+        "content": "There are twelve options fitting your description, sir. What price range are you interested in?"
+      },
+      {
+        "line": 13,
+        "content": "The hotel should have a star of 3 and doesn't need to have free parking."
+      },
+      {
+        "line": 14,
+        "content": "How about hamilton lodge? It looks lovely."
+      }
+    ],
+    [
+      {
+        "line": 15,
+        "content": "Perfect. What's the price range and postcode?"
+      },
+      {
+        "line": 16,
+        "content": "It is moderately priced and the postcode is cb41da."
+      },
+      {
+        "line": 17,
+        "content": "When is my doctor's appointment?"
+      },
+      {
+        "line": 18,
+        "content": "Your doctor's appointment is Monday at 1 pm."
+      },
+      {
+        "line": 19,
+        "content": "I need a 4 star hotel on the north side."
+      },
+      {
+        "line": 20,
+        "content": "I have 7 moderately priced properties in the north with 4 stars, and 1 cheap one. Do you have a preference for price?"
+      }
+    ],
+    [
+      {
+        "line": 21,
+        "content": "Is there anything in the expensive price range?"
+      },
+      {
+        "line": 22,
+        "content": "No, I'm sorry, there is not."
+      },
+      {
+        "line": 23,
+        "content": "How about just moderate?"
+      },
+      {
+        "line": 24,
+        "content": "Yes, there are 7 properties fitting that description and they are all guesthouses. Would you like to book one?"
+      },
+      {
+        "line": 25,
+        "content": "Yes, which one do you suggest?"
+      },
+      {
+        "line": 26,
+        "content": "Avalon is my favorite. When do you want to stay?"
+      }
+    ],
+    [
+      {
+        "line": 27,
+        "content": "Can you book it for 4 people and 4 nights starting from saturday?"
+      },
+      {
+        "line": 28,
+        "content": "Booked! Your reference number is HWZZ651R. Is there anything else you need?"
+      },
+      {
+        "line": 29,
+        "content": "Can you find me a gas station nearby?"
+      },
+      {
+        "line": 30,
+        "content": "We're 6 miles away from Chevron but there is a road block nearby"
+      },
+      {
+        "line": 31,
+        "content": "Which one is it the quickest way to get there?"
+      },
+      {
+        "line": 32,
+        "content": "I picked the quickest way and sent it on your map, navigating there now"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "line": 1,
+        "content": "I need to get a train from cambridge to Norwich."
+      },
+      {
+        "line": 2,
+        "content": "I have a train leaving at 12:36 and arriving at 13:55. Is that ok?"
+      },
+      {
+        "line": 3,
+        "content": "Actually no, I need a train leaving on Monday after 20:30."
+      },
+      {
+        "line": 4,
+        "content": "I have a train which leaves at 20:36. Would that work for you?"
+      },
+      {
+        "line": 5,
+        "content": "book for 4. get me the reference number please"
+      },
+      {
+        "line": 6,
+        "content": "Booking was successful, the total fee is 70.4 GBP payable at the station. Reference number is : RI594OCX."
+      }
+    ],
+    [
+      {
+        "line": 7,
+        "content": "I am looking for a train that leaves Saturday going to ely, do you have a train with those details?"
+      },
+      {
+        "line": 8,
+        "content": "There are 10 trains on Saturday that go to Ely from Cambridge. What time do you need to leave or arrive, and how many tickets do you need?"
+      },
+      {
+        "line": 9,
+        "content": "I need to arrive by 13:00."
+      },
+      {
+        "line": 10,
+        "content": "There is one train that arrives at 12:07. That trainID isTR0718."
+      },
+      {
+        "line": 11,
+        "content": "I need a booking for 4 people."
+      },
+      {
+        "line": 12,
+        "content": "I've done that. The price will be 14.08 GBP payable at the station. Your reference number is IR7HSMG4. Any else I can do for you?"
+      }
+    ],
+    [
+      {
+        "line": 13,
+        "content": "I need a taxi to leave from the gallery at twelve a high street to arrive by 15:30"
+      },
+      {
+        "line": 14,
+        "content": "Where will you be going?"
+      }
+    ],
+    [
+      {
+        "line": 15,
+        "content": "I'm going to the nirala."
+      },
+      {
+        "line": 16,
+        "content": "Great, you are all set. A yellow honda has been booked and the contact number is 07621058499. Can I help with anything else today?"
+      }
+    ],
+    [
+      {
+        "line": 17,
+        "content": "I am looking for a train leaving after 11:45"
+      },
+      {
+        "line": 18,
+        "content": "OK, what are your departure and arrival stations, and what day are you traveling?"
+      }
+    ],
+    [
+      {
+        "line": 19,
+        "content": "I'll be leaving Stansted Airport Friday to head toward Cambridge."
+      },
+      {
+        "line": 20,
+        "content": "Ok, I have the first available train leaving at 12:24 and arriving at 12:52. Would that train work for you or would you like to leave later than that?"
+      },
+      {
+        "line": 21,
+        "content": "That would work for me can I get a train for 7 people?"
+      },
+      {
+        "line": 22,
+        "content": "Yes, you're booked on TR1387 with reference number 78BZSVSW. The total fee is 70.7 GBP payable at the station. Anything else I can help you with?"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "line": 1,
+        "content": "In mountain view, will there be frost today or tomorrow?"
+      },
+      {
+        "line": 2,
+        "content": "No, in Mountain View there will be clear skies today and dry tomorrow"
+      },
+      {
+        "line": 3,
+        "content": "I need some train schedule information, please."
+      },
+      {
+        "line": 4,
+        "content": "Is there a specific destination you need to depart from?"
+      },
+      {
+        "line": 5,
+        "content": "Yes, the train should arrive by 18:15 and should depart from ely."
+      },
+      {
+        "line": 6,
+        "content": "What is your destination?"
+      }
+    ],
+    [
+      {
+        "line": 7,
+        "content": "I want to go to Cambridge, please."
+      },
+      {
+        "line": 8,
+        "content": "trainID departure destination day leaveAt arriveBy price duration book (optional) TR8519 ely cambridge friday 05:35 05:52 4.40 pounds 17 minutes TR8510 ely cambridge friday 07:35 07:52 4.40 pounds 17 minutes TR3976 ely cambridge friday 09:35 09:52 4.40 pounds 17 minutes TR0212 ely cambridge friday 11:35 11:52 4.40 pounds 17 minutes TR0236 ely cambridge friday 13:35 13:52 4.40 pounds 17 minutes there is a sample"
+      }
+    ],
+    [
+      {
+        "line": 9,
+        "content": "Thanks, that's all I need."
+      },
+      {
+        "line": 10,
+        "content": "Did you say you were leaving on Friday?"
+      },
+      {
+        "line": 11,
+        "content": "I need to leave on Thursday, not Friday."
+      },
+      {
+        "line": 12,
+        "content": "I see. All right, I've adjusted that information for you."
+      },
+      {
+        "line": 13,
+        "content": "Where is the nearest pizza place?"
+      },
+      {
+        "line": 14,
+        "content": "The nearest pizza place is Round Table located 4 miles away. Do you want the address?"
+      }
+    ],
+    [
+      {
+        "line": 15,
+        "content": "Yes, please, and pick the quickest route to get there too"
+      },
+      {
+        "line": 16,
+        "content": "113 Anton Ct, there is no traffic and you should be able to reach there quickly"
+      }
+    ],
+    [
+      {
+        "line": 17,
+        "content": "I am looking for the Addenbrookes Hospital."
+      },
+      {
+        "line": 18,
+        "content": "The hospital is located at Hills Rd, Cambridge in postcode CB20QQ."
+      },
+      {
+        "line": 19,
+        "content": "Can I have the phone number please?"
+      },
+      {
+        "line": 20,
+        "content": "The phone number is 01223245151. Is there anything else?"
+      },
+      {
+        "line": 21,
+        "content": "That will be all. Thank you for your help."
+      },
+      {
+        "line": 22,
+        "content": "Great! Have a nice day!"
+      }
+    ],
+    [
+      {
+        "line": 23,
+        "content": "what is the weather for next week"
+      },
+      {
+        "line": 24,
+        "content": "What city do you need weather information for?"
+      }
+    ],
+    [
+      {
+        "line": 25,
+        "content": "Will it be cloudy in Los Angeles next week?"
+      },
+      {
+        "line": 26,
+        "content": "It will be cloudy on Tuesday in Los Angeles."
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "line": 1,
+        "content": "Yes I am looking for an expensive restaurant in the South of town."
+      },
+      {
+        "line": 2,
+        "content": "I have many. Do you have a preference for type of food served?"
+      },
+      {
+        "line": 3,
+        "content": "Sorry, Actually I need an expensive restaurant in the north. the first on your list would be great."
+      },
+      {
+        "line": 4,
+        "content": "Sure how about Saigon City?"
+      }
+    ],
+    [
+      {
+        "line": 5,
+        "content": "Sounds great, can you book a table for 5 at 18:00?"
+      },
+      {
+        "line": 6,
+        "content": "Alright, which day would you like the reservation to be on?"
+      },
+      {
+        "line": 7,
+        "content": "Actually, I won't be needing a reservation just yet. Could you verify the type of food Saigon City serves?"
+      },
+      {
+        "line": 8,
+        "content": "Saigon City serves asian oriental cuisine. Would you need anything other information or assistance?"
+      },
+      {
+        "line": 9,
+        "content": "Yes, could I get the restuarant's phone number and postcode?"
+      },
+      {
+        "line": 10,
+        "content": "Certainly. The phone number is 01223356555 and the postcode is cb41nl. Anything else I can do for you?"
+      }
+    ],
+    [
+      {
+        "line": 11,
+        "content": "Can you direct me to a coffee or tea place nearby, preferably on a route with no traffic?"
+      },
+      {
+        "line": 12,
+        "content": "Cafe Venetia is a mile away with no traffic at 269 Alger Dr."
+      },
+      {
+        "line": 13,
+        "content": "Sounds great, set the GPS for there please."
+      },
+      {
+        "line": 14,
+        "content": "I updated the map on your screen, drive carefully!"
+      }
+    ],
+    [
+      {
+        "line": 15,
+        "content": "I need to find a train going to Stansted Airport and departing on Thursday."
+      },
+      {
+        "line": 16,
+        "content": "the train id is TR7966"
+      },
+      {
+        "line": 17,
+        "content": "How much is a ticket?"
+      },
+      {
+        "line": 18,
+        "content": "The train ticket will cost you 10.10 pounds."
+      },
+      {
+        "line": 19,
+        "content": "Does that train arrive by 16:45, I need to be there by then."
+      },
+      {
+        "line": 20,
+        "content": "The TR7966 is the first train of the day, arriving at 6:08. The latest train arriving before 16:45 would be the TR9427 arriving at 16:08. Would you prefer that?"
+      }
+    ],
+    [
+      {
+        "line": 21,
+        "content": "Do either of those trains depart from Cambridge? I'd like to leave from there if possible."
+      },
+      {
+        "line": 22,
+        "content": "TR7966 does depart from Cambridge and arrives at 6:08. The latest train from Cambridge to Stansted airport on Thursday arrives at 10:10. It is train TR6242. Which do you prefer?"
+      },
+      {
+        "line": 23,
+        "content": "The 10:10 would work for me!"
+      },
+      {
+        "line": 24,
+        "content": "Alright, how many tickets do you need?"
+      },
+      {
+        "line": 25,
+        "content": "I can get my own ticket, thank you. How much will it cost?"
+      },
+      {
+        "line": 26,
+        "content": "The fare is 10 pounds 10. May I help you with anything else?"
+      }
+    ],
+    [
+      {
+        "line": 27,
+        "content": "No, that's all Thanks"
+      },
+      {
+        "line": 28,
+        "content": "Thanks I have enjoyed the service"
+      }
+    ],
+    [
+      {
+        "line": 29,
+        "content": "I'd like to arrange for a taxi please"
+      },
+      {
+        "line": 30,
+        "content": "Where would you like to travel from and to?"
+      }
+    ],
+    [
+      {
+        "line": 31,
+        "content": "I'm leaving from jinling noodle bar and going to dojo noodle bar. I'm a noodle bar crawl!"
+      },
+      {
+        "line": 32,
+        "content": "What time would you like to arrive?"
+      },
+      {
+        "line": 33,
+        "content": "It should leave after 11:15."
+      },
+      {
+        "line": 34,
+        "content": "Booking completed! Booked car type : black skoda Contact number : 07209986380"
+      },
+      {
+        "line": 35,
+        "content": "When is yoga? Who's going to be there?"
+      },
+      {
+        "line": 36,
+        "content": "Yoga is on the 3rd at 10 am with your mother."
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "line": 1,
+        "content": "Will it be humid in exeter tomorrow?"
+      },
+      {
+        "line": 2,
+        "content": "The weather forecast in exeter tomorrow will be hot"
+      }
+    ],
+    [
+      {
+        "line": 3,
+        "content": "Can you give me any info on whether you have any 2-star hotel or guesthouses somewhere in town?"
+      },
+      {
+        "line": 4,
+        "content": "Yes, there are three! How about Ashley Hotel?"
+      },
+      {
+        "line": 5,
+        "content": "Does it have free wifi and free parking?"
+      },
+      {
+        "line": 6,
+        "content": "Yes, the Ashley offers both free wifi and free parking. Would you like to make a reservation?"
+      }
+    ],
+    [
+      {
+        "line": 7,
+        "content": "Yes, make a reservation for 2 for 3 nights starting Wednesday."
+      },
+      {
+        "line": 8,
+        "content": "That booking was unsuccessful. Would you like to try a different day, or a different length of stay?"
+      },
+      {
+        "line": 9,
+        "content": "How about trying another 2-star hotel with free wifi and free parking?"
+      },
+      {
+        "line": 10,
+        "content": "Would you like to try Express by Holiday Inn or Lovell Lodge?"
+      }
+    ],
+    [
+      {
+        "line": 11,
+        "content": "Yes, the Express is fine. I need it for 2 people and for 3 nights starting Wednesday. I need the reference number, please."
+      },
+      {
+        "line": 12,
+        "content": "Booking was unsuccessful. Do you want to change the preferences?"
+      },
+      {
+        "line": 13,
+        "content": "Let me look over my notes quick. I need a hotel, not a guestroom, with 2 stars. Free Parking & WiFi. 3 nights starting Wednesday, 2 people."
+      },
+      {
+        "line": 14,
+        "content": "We have three, what area of town would you like?"
+      },
+      {
+        "line": 15,
+        "content": "Area doesn't matter. Just book me one and hand me the reference number."
+      },
+      {
+        "line": 16,
+        "content": "Alright, you have a reservation at the ashley hotel. The reference number is O1T3GRKQ. Can I help you find anything else?"
+      }
+    ],
+    [
+      {
+        "line": 17,
+        "content": "I need to find a hospital nearby that has a hepatobillary and gastrointestinal surgery referral center"
+      },
+      {
+        "line": 18,
+        "content": "Addenbrookes Hospital located at Hills Rd, Cambridge has that department. Would you like the phone number to that direct department?"
+      }
+    ],
+    [
+      {
+        "line": 19,
+        "content": "No, I just need the postcode."
+      },
+      {
+        "line": 20,
+        "content": "Certainly. The postcode is CB20QQ. Anything else I can help you with today?"
+      },
+      {
+        "line": 21,
+        "content": "what's the weekly forecast for cleveland"
+      },
+      {
+        "line": 22,
+        "content": "It will be warm most of the week. At first, it will be foggy, then hot, then dry, then wet, then foggy, and then stormy. Is that helpful?"
+      }
+    ],
+    [
+      {
+        "line": 23,
+        "content": "Sorry, I might have misspoken. - I actually want to know what the lowest temperature will be in Cleveland during the next week."
+      },
+      {
+        "line": 24,
+        "content": "It will be 40F on Friday in Cleveland."
+      },
+      {
+        "line": 25,
+        "content": "Where is the closest shopping center?"
+      },
+      {
+        "line": 26,
+        "content": "The nearest shopping center is 7 miles away."
+      }
+    ],
+    [
+      {
+        "line": 27,
+        "content": "What is the address?"
+      },
+      {
+        "line": 28,
+        "content": "Ravenswood Shopping Center is at 434 Arastradero Rd."
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "line": 1,
+        "content": "Hello, I'm looking for a train. I need to leave on Wednesday from Norwich."
+      },
+      {
+        "line": 2,
+        "content": "Any idea where you want to go?"
+      }
+    ],
+    [
+      {
+        "line": 3,
+        "content": "I am looking to go to Cambridge."
+      },
+      {
+        "line": 4,
+        "content": "To help narrow down the choices, what time would you like to depart at?"
+      },
+      {
+        "line": 5,
+        "content": "i'm leaving after 09:00."
+      },
+      {
+        "line": 6,
+        "content": "how about TR1180 that leaves at 09:16?"
+      }
+    ],
+    [
+      {
+        "line": 7,
+        "content": "What is the Price and travel time?"
+      },
+      {
+        "line": 8,
+        "content": "It is 17.60 pounds per person and the travel time is 79 minutes."
+      },
+      {
+        "line": 9,
+        "content": "Ok great, can you book it for me please?"
+      },
+      {
+        "line": 10,
+        "content": "You are booked fee will be 17.6 payable at the station, the refernece number is BT2I3WGS. Anything else today?"
+      }
+    ],
+    [
+      {
+        "line": 11,
+        "content": "I need a hotel on the north side with free parking."
+      },
+      {
+        "line": 12,
+        "content": "Okay, there are 11 places to stay that might work. Would you prefer a guesthouse or a hotel?"
+      }
+    ],
+    [
+      {
+        "line": 13,
+        "content": "I'd prefer a moderate price guesthouse."
+      },
+      {
+        "line": 14,
+        "content": "That leaves us with about 7 options. Can I suggest the Acorn Guest House? It is a 4 star moderately priced guesthouse in the north."
+      }
+    ],
+    [
+      {
+        "line": 15,
+        "content": "That sounds fine. Would you make a reservation for 4 people, 3 nights starting Monday?"
+      },
+      {
+        "line": 16,
+        "content": "Your booking was successful and reference number is 3ZYK9LO1. Is there anything else I may assist you with?"
+      },
+      {
+        "line": 17,
+        "content": "Is there a nearby rest stop?"
+      },
+      {
+        "line": 18,
+        "content": "Hotel Keen and The Westin are both nearby."
+      },
+      {
+        "line": 19,
+        "content": "Which has the least amount of traffic at the moment."
+      },
+      {
+        "line": 20,
+        "content": "They both have none."
+      }
+    ],
+    [
+      {
+        "line": 21,
+        "content": "What is the address for Keen?"
+      },
+      {
+        "line": 22,
+        "content": "578 Arbol Dr, we're 2 miles away from it. Set the navigation there?"
+      },
+      {
+        "line": 23,
+        "content": "what time is my optometrist appointment"
+      },
+      {
+        "line": 24,
+        "content": "You have two optometrist's appointments scheduled; one for the 2nd at 4 pm with father and one the 12th at 10 am with Jeff."
+      },
+      {
+        "line": 25,
+        "content": "Can you find me a guesthouse with free parking?"
+      },
+      {
+        "line": 26,
+        "content": "I certainly can look for that for you. It looks like I have several. Do you prefer a certain price range?"
+      }
+    ],
+    [
+      {
+        "line": 27,
+        "content": "No, but I'm looking for something with at least two stars."
+      },
+      {
+        "line": 28,
+        "content": "Sorry, we don't have anything that matches the options that you've selected. Would you like to search for a different option?"
+      },
+      {
+        "line": 29,
+        "content": "Do you have a hotel that is four stars then?"
+      },
+      {
+        "line": 30,
+        "content": "We have several! Do you wish to stay in a certain part of town?"
+      }
+    ],
+    [
+      {
+        "line": 31,
+        "content": "The location doesn't matter, but I would prefer a guesthouse if possible."
+      },
+      {
+        "line": 32,
+        "content": "I would recommend the Acorn Guest House then. It has 4 stars, free wifi, free parking and is moderately priced. Would you like to book a room?"
+      }
+    ],
+    [
+      {
+        "line": 33,
+        "content": "Yes please. There are 8 of us and we'll be arriving on Saturday."
+      },
+      {
+        "line": 34,
+        "content": "Can you please give me how many days you will be staying?"
+      },
+      {
+        "line": 35,
+        "content": "I'll be staying for 5 nights."
+      },
+      {
+        "line": 36,
+        "content": "I have you book for that time, the reference code is UA3N0Q3R."
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "line": 1,
+        "content": "Hi! I'm looking for a cheap restaurant in the north, any type!"
+      },
+      {
+        "line": 2,
+        "content": "There is Royal Spice which serves Indian food and Da Vinci Pizzeria which serves Italian food. Would you like me to book you a table at either of these restaurants?"
+      },
+      {
+        "line": 3,
+        "content": "Royal Spice sounds good. Can you reserve a table for 8 at 15:45 on Saturday?"
+      },
+      {
+        "line": 4,
+        "content": "Unfortunately, I was not able to book for that specific time and day. Can I try a different day or time for you?"
+      }
+    ],
+    [
+      {
+        "line": 5,
+        "content": "How about at 14:45?"
+      },
+      {
+        "line": 6,
+        "content": "I've booked it for that day on Saturday. Reference number 9PVIPW1Y. Anything else?"
+      },
+      {
+        "line": 7,
+        "content": "I want to make a booking at the alexander bed and breakfast."
+      },
+      {
+        "line": 8,
+        "content": "Ok. How many nights would you like to book?"
+      }
+    ],
+    [
+      {
+        "line": 9,
+        "content": "4 nights please."
+      },
+      {
+        "line": 10,
+        "content": "What are the dates you are staying?"
+      }
+    ],
+    [
+      {
+        "line": 11,
+        "content": "I will be staying four nights starting on Friday."
+      },
+      {
+        "line": 12,
+        "content": "How many people will be staying?"
+      }
+    ],
+    [
+      {
+        "line": 13,
+        "content": "4 people will be staying for 4 nights starting from Friday."
+      },
+      {
+        "line": 14,
+        "content": "Ok. Your booking was successful and the reference number is TD8TU8IO."
+      },
+      {
+        "line": 15,
+        "content": "is it going to rain this week"
+      },
+      {
+        "line": 16,
+        "content": "Which city are you interested in?"
+      }
+    ],
+    [
+      {
+        "line": 17,
+        "content": "Corona"
+      },
+      {
+        "line": 18,
+        "content": "There will be rain on Wednesday and a drizzle on Saturday for Corona this week."
+      },
+      {
+        "line": 19,
+        "content": "take me to the nearest chinese restaurant"
+      },
+      {
+        "line": 20,
+        "content": "There are Jing Jing 4 miles away and Panda Express 6 miles away: since there is no traffic on the route to Panda Express I vote for its chicken with orange and shrimps with nuts."
+      },
+      {
+        "line": 21,
+        "content": "What is the address of Jing Jing."
+      },
+      {
+        "line": 22,
+        "content": "Jing Jing is at 113 Arbol Dr."
+      }
+    ],
+    [
+      {
+        "line": 23,
+        "content": "Set GPS for a route with no traffic please."
+      },
+      {
+        "line": 24,
+        "content": "The only route to Jing Jing has moderate traffic. Is that okay?"
+      },
+      {
+        "line": 25,
+        "content": "Yes that's fine. Please set the GPS."
+      },
+      {
+        "line": 26,
+        "content": "GPS is set to Jing Jing at 113 Arbol Dr."
+      }
+    ],
+    [
+      {
+        "line": 27,
+        "content": "I am looking for a place to dine. The restaurant should be in the east and should be in the moderate price range"
+      },
+      {
+        "line": 28,
+        "content": "The Curry Prince restaurant is in the east and is moderately priced. Their phone is 01223566388."
+      }
+    ],
+    [
+      {
+        "line": 29,
+        "content": "Thank you for the help."
+      },
+      {
+        "line": 30,
+        "content": "Is there anything else I can help you with?"
+      },
+      {
+        "line": 31,
+        "content": "Yes, could you book me a table for 6 at 19:45 on Saturday?"
+      },
+      {
+        "line": 32,
+        "content": "Your table is reserved. Your reference number is U60SC89J. May I help you with something else?"
+      }
+    ],
+    [
+      {
+        "line": 33,
+        "content": "Would you confirm this is an Indian restaurant, please? It sounds like one."
+      },
+      {
+        "line": 34,
+        "content": "Yes it is an Indian restaurant in the east."
+      }
+    ],
+    [
+      {
+        "line": 35,
+        "content": "Great, that is all I need today. Thank you."
+      },
+      {
+        "line": 36,
+        "content": "You're welcome. Thank you so much for calling us today."
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "line": 1,
+        "content": "I need a train on Wednesday"
+      },
+      {
+        "line": 2,
+        "content": "Where are you departing from and where is your destination?"
+      }
+    ],
+    [
+      {
+        "line": 3,
+        "content": "I will be departing from Cambridge. My destination is Birmingham New Street."
+      },
+      {
+        "line": 4,
+        "content": "I've got lots of available trains that will get you there. Do you have a preferred time you want to leave or arrive?"
+      },
+      {
+        "line": 5,
+        "content": "I want to leave after 08:15, arrival isn't that important."
+      },
+      {
+        "line": 6,
+        "content": "I have one leaving Cambridge at 9:01 and arriving in Birmingham at 11:44. Would you like to book this one?"
+      },
+      {
+        "line": 7,
+        "content": "Yes. Would you please provide me with the reference number?"
+      },
+      {
+        "line": 8,
+        "content": "I have booked you and your reference number is 93NZYRZQ."
+      }
+    ],
+    [
+      {
+        "line": 9,
+        "content": "Hello, I am looking for a restaurant by the name of Royal Standard. Do you know where it is?"
+      },
+      {
+        "line": 10,
+        "content": "Yes, royal standard is in the city centre at 290 Mill Road."
+      }
+    ],
+    [
+      {
+        "line": 11,
+        "content": "Great. Could you please book a table for 1 at 16:30 on Saturday?"
+      },
+      {
+        "line": 12,
+        "content": "I was able to make a reservation for 1 at the royal standard. Your reference number is: FZP2XK9Q. Do you need anything else today?"
+      }
+    ],
+    [
+      {
+        "line": 13,
+        "content": "What time is the football game and who will be there?"
+      },
+      {
+        "line": 14,
+        "content": "Your football activity with Jeff is at 11 am."
+      },
+      {
+        "line": 15,
+        "content": "I need to find a restaurant in the west part of town. It should be in the cheap price range."
+      },
+      {
+        "line": 16,
+        "content": "I have a Vietnamese and an Italian restaurant matching your requirements. Would you be interested in either?"
+      }
+    ],
+    [
+      {
+        "line": 17,
+        "content": "I'd prefer the Italian one."
+      },
+      {
+        "line": 18,
+        "content": "I have La Margherita that is a cheaper italian restaurant. It's located at 15 Magdalene Street City Centre. Did you need any help booking a table?"
+      },
+      {
+        "line": 19,
+        "content": "Can I get the postcode for it?"
+      },
+      {
+        "line": 20,
+        "content": "Absolutely! The postcode for La Margherita is cb30af. Would you like me to make a reservation for you?"
+      }
+    ],
+    [
+      {
+        "line": 21,
+        "content": "Yes, please. Thank you very much."
+      },
+      {
+        "line": 22,
+        "content": "Great! What day and time would you like the reservation for?"
+      },
+      {
+        "line": 23,
+        "content": "Am injured and are looking for a hospital nearby"
+      },
+      {
+        "line": 24,
+        "content": "The Addenbrookes Hospital is located at Hills Rd, Cambridge Postcode CB20QQ"
+      }
+    ],
+    [
+      {
+        "line": 25,
+        "content": "That may be good. How many minutes away is that hospital?"
+      },
+      {
+        "line": 26,
+        "content": "Where are you currently located?"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "line": 1,
+        "content": "I'm looking for unusual and expensive cuisine in the west. Do you have any suggestions?"
+      },
+      {
+        "line": 2,
+        "content": "I didn't find any records matching those criteria."
+      }
+    ],
+    [
+      {
+        "line": 3,
+        "content": "How about an Indian restaurant?"
+      },
+      {
+        "line": 4,
+        "content": "There are several in the West area. What is your address and I can find one that is closest to you? Do you want to walk?"
+      },
+      {
+        "line": 5,
+        "content": "I just want to go to one you think is best please"
+      },
+      {
+        "line": 6,
+        "content": "You should definitely try Cocum. Can I reserve a table for you?"
+      },
+      {
+        "line": 7,
+        "content": "Yes, please. I need a table for 4 people at 14:45 on Thursday. If not Thursday, I'd like the same time on Tuesday. Please send me the reference number."
+      },
+      {
+        "line": 8,
+        "content": "I was able to get you a table on Thursday, ref# XLUIM3SN. Is there anything else I can help you with today?"
+      }
+    ],
+    [
+      {
+        "line": 9,
+        "content": "Hello! I would like to book a taxi from hughes hall."
+      },
+      {
+        "line": 10,
+        "content": "Great. Where would you like to go and what time do you want to leave or arrive by?"
+      },
+      {
+        "line": 11,
+        "content": "I'm going to Ali Baba from Hughes Hall. I would like the taxi to arrive at Hughes Hall at 2:45."
+      },
+      {
+        "line": 12,
+        "content": "It sounds like you wish to depart Hughes Hall and arrive at Ali Baba by 2:45, is this correct? If so, I've booked a black Ford for you, contact 07392863087."
+      }
+    ],
+    [
+      {
+        "line": 13,
+        "content": "That's great. Thanks."
+      },
+      {
+        "line": 14,
+        "content": "Is there anything else you need help with?"
+      },
+      {
+        "line": 15,
+        "content": "Can I expect to see clear skies in Compton next week?"
+      },
+      {
+        "line": 16,
+        "content": "I'm sorry, there aren't any days where clear skies are predicted in Compton next week."
+      },
+      {
+        "line": 17,
+        "content": "Hello! I'm looking for the Parkside Police Station. Do you know where that is? Any additional information would be helpful. Thank you!"
+      },
+      {
+        "line": 18,
+        "content": "Yes mam, the address is Parkside, Cambridge with a postcode of CB11JG.The phone number is 01223358966. Would you like any more info ?"
+      }
+    ],
+    [
+      {
+        "line": 19,
+        "content": "No that is exactly what I needed. Thank you for your help."
+      },
+      {
+        "line": 20,
+        "content": "Have a nice day!"
+      }
+    ],
+    [
+      {
+        "line": 21,
+        "content": "Where is a close rest stop?"
+      },
+      {
+        "line": 22,
+        "content": "The Westin is 2 miles away."
+      },
+      {
+        "line": 23,
+        "content": "What is the address?"
+      },
+      {
+        "line": 24,
+        "content": "The Westin is located at 329 El Camino Real."
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "line": 1,
+        "content": "I've just been robbed. I need to report it."
+      },
+      {
+        "line": 2,
+        "content": "So sorry to hear that. You can get assistance by contacting Parkside Police Station at Telephone 01223358966, Address Parkside, Cambridge, Postcode CB11JG."
+      },
+      {
+        "line": 3,
+        "content": "I Am injured and are looking for a hospital nearby"
+      },
+      {
+        "line": 4,
+        "content": "The Addenbrookes Hospital is nearby on Hills Rd. Can I call the emergency department for you at 01223217118?"
+      },
+      {
+        "line": 5,
+        "content": "That hospital will be fine, do you have the address and postcode for that hospital?"
+      },
+      {
+        "line": 6,
+        "content": "Addenbrookes Hospital is located at Hills Rd, Cambridge, postcode CB20QQ. Is there a particular department you need?"
+      }
+    ],
+    [
+      {
+        "line": 7,
+        "content": "No. That's all the information I was looking for today. Thanks."
+      },
+      {
+        "line": 8,
+        "content": "Can I help you with anything else?"
+      },
+      {
+        "line": 9,
+        "content": "I'm looking for an entertainment spot in town."
+      },
+      {
+        "line": 10,
+        "content": "We have choices in the South, East, and West. Do you have a preference for any location?"
+      },
+      {
+        "line": 11,
+        "content": "No, just tell me one you think is nice."
+      },
+      {
+        "line": 12,
+        "content": "Try the nusha. It is in the south. Their phone number is 01223902158"
+      }
+    ],
+    [
+      {
+        "line": 13,
+        "content": "May I also get the postcode, the address, and the entrance fee?"
+      },
+      {
+        "line": 14,
+        "content": "The address and postcode for Nusha are unit g6, cambridge leisure park, clifton road, cb17dy. There is no entrance fee information available."
+      }
+    ],
+    [
+      {
+        "line": 15,
+        "content": "Great! Thank you very much."
+      },
+      {
+        "line": 16,
+        "content": "Glad I could help. Do you need anymore assistance?"
+      }
+    ],
+    [
+      {
+        "line": 17,
+        "content": "I want to find a moderately-priced restaurant in the centre."
+      },
+      {
+        "line": 18,
+        "content": "We have 21 entries that match. Do you have a preference on type of food?"
+      },
+      {
+        "line": 19,
+        "content": "I'd like Lebanese food please."
+      },
+      {
+        "line": 20,
+        "content": "ali baba serves lebanese food in the town centre at a moderate price range. Would you like to make a booking?"
+      },
+      {
+        "line": 21,
+        "content": "Yes please. I need a table for 3 at 18:45 on a Tuesday."
+      },
+      {
+        "line": 22,
+        "content": "I was unable to find you a table at that time. Is there another time that would work for you?"
+      }
+    ],
+    [
+      {
+        "line": 23,
+        "content": "I guess we could move it an hour earlier, if that's better?"
+      },
+      {
+        "line": 24,
+        "content": "That worked. You have a table at 17:45 with reference number 2S4UXXS3. Can I help with anything else today?"
+      },
+      {
+        "line": 25,
+        "content": "what is the weather like today and tomorrow"
+      },
+      {
+        "line": 26,
+        "content": "What city would you like the 2 day forecast for?"
+      }
+    ],
+    [
+      {
+        "line": 27,
+        "content": "I need to know if there is a blizzard in redwood City today."
+      },
+      {
+        "line": 28,
+        "content": "There is no blizzard in Redwood City today."
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "line": 1,
+        "content": "I'd like to book a taxi. I need it to arrive by 14:15 and my destination is Cambridge Lodge Restaurant."
+      },
+      {
+        "line": 2,
+        "content": "Thank you, but before I can create your booking I need to know where you'll be departing from."
+      },
+      {
+        "line": 3,
+        "content": "I will be departing from Jesus Green Outdoor Pool."
+      },
+      {
+        "line": 4,
+        "content": "Your booking was successful. Your car is a red honda and its contact number is 07924138056. Can I assist you with anything else today?"
+      },
+      {
+        "line": 5,
+        "content": "What type of car is it? And is there a contact number?"
+      },
+      {
+        "line": 6,
+        "content": "Yes, I can repeat it. A Red Honda car and the contact info is 07924138056. Can I help you with anything else?"
+      },
+      {
+        "line": 7,
+        "content": "when is my next meeting"
+      }
+    ],
+    [
+      {
+        "line": 8,
+        "content": "I need a train from stansted airport to cambridge, please."
+      },
+      {
+        "line": 9,
+        "content": "There are 133 trains that make that trip, do you have a day and time?"
+      },
+      {
+        "line": 10,
+        "content": "Yes. I need to leave on Sunday and arrive by 17:15."
+      },
+      {
+        "line": 11,
+        "content": "I have train TR7744 that leaves the airport at 16:24 and will get you there by 16:52. Would you like me to book you a ticket?"
+      },
+      {
+        "line": 12,
+        "content": "How much is the ticket?"
+      },
+      {
+        "line": 13,
+        "content": "The tickets are 8.08 pounds per ticket. Would you like to book the train?"
+      }
+    ],
+    [
+      {
+        "line": 14,
+        "content": "Not at the moment. Thank you."
+      },
+      {
+        "line": 15,
+        "content": "Can I help you with anything else?"
+      }
+    ],
+    [
+      {
+        "line": 16,
+        "content": "Where is the police station?"
+      },
+      {
+        "line": 17,
+        "content": "The police station is located in Parkside, Cambridge, CB11JG"
+      },
+      {
+        "line": 18,
+        "content": "Do you have a driver who can take me there?"
+      },
+      {
+        "line": 19,
+        "content": "Yes, of course. What is your departure site?"
+      },
+      {
+        "line": 20,
+        "content": "I can't think straight. Give me the police phone number, so they can come to me."
+      },
+      {
+        "line": 21,
+        "content": "No problem at all. Please call 01223358966 to reach the police at that station. I'm certain they will be able to help you."
+      }
+    ],
+    [
+      {
+        "line": 22,
+        "content": "I hope so. Thanks for getting the number for me."
+      },
+      {
+        "line": 23,
+        "content": "You are welcome. Do you require any further assistance?"
+      }
+    ],
+    [
+      {
+        "line": 24,
+        "content": "Are there any multiple sports in the centre of town?"
+      },
+      {
+        "line": 25,
+        "content": "Sorry, not in the centre. Should I check another area?"
+      },
+      {
+        "line": 26,
+        "content": "Well, how about a theatre then? I need the phone number."
+      },
+      {
+        "line": 27,
+        "content": "There are several theaters in the town centre. What address are you staying at so I can find the closest one to you?"
+      }
+    ],
+    [
+      {
+        "line": 28,
+        "content": "I'm not sure yet. Which one do you recommend?"
+      },
+      {
+        "line": 29,
+        "content": "I think the Mumford Theatre is great! Would you like more information?"
+      },
+      {
+        "line": 30,
+        "content": "Yes, I need the entrance fee and phone number?"
+      },
+      {
+        "line": 31,
+        "content": "They don't have the entrance fee posted but their phone number is 08451962320. Is there anything else I can assist you with?"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "line": 1,
+        "content": "What is the date and time for dinner?"
+      },
+      {
+        "line": 2,
+        "content": "For which one? I have you set for three."
+      },
+      {
+        "line": 3,
+        "content": "The soonest one please."
+      },
+      {
+        "line": 4,
+        "content": "I have the soonest dinner listed for 8pm on the 2nd with your sister."
+      },
+      {
+        "line": 5,
+        "content": "Thanks."
+      },
+      {
+        "line": 6,
+        "content": "You are welcome driver."
+      }
+    ],
+    [
+      {
+        "line": 7,
+        "content": "I wasn't planning to stay in town tonight, but it looks like I'm going to have to. Can you help me find a pretty cheap room?"
+      },
+      {
+        "line": 8,
+        "content": "The the cambridge belfry is a hotel in the west part of town in the cheap price range. Would you like me to book a room for you?"
+      }
+    ],
+    [
+      {
+        "line": 9,
+        "content": "I am looking for a cheap place to stay including free parking"
+      },
+      {
+        "line": 10,
+        "content": "The Cambridge Belfry is cheap and includes free parking and wifi. Would you like to book a room?"
+      }
+    ],
+    [
+      {
+        "line": 11,
+        "content": "How many stars does it have? I'd like a cheap place in the west with 4 stars and free parking."
+      },
+      {
+        "line": 12,
+        "content": "Yes, the Cambridge Belfry is a cheap 4 star hotel that includes free parking."
+      }
+    ],
+    [
+      {
+        "line": 13,
+        "content": "Do they have internet there?"
+      },
+      {
+        "line": 14,
+        "content": "Yes, there is free internet provided. Would you like me to book a room?"
+      },
+      {
+        "line": 15,
+        "content": "Sure you can book that for me, thank you!"
+      },
+      {
+        "line": 16,
+        "content": "I would be happy to book a room. Please let me know your arrival day, how many nights you're staying, and the number of people who will be staying."
+      },
+      {
+        "line": 17,
+        "content": "take me to the nearest starbucks"
+      },
+      {
+        "line": 18,
+        "content": "I am unable to locate starbucks. However there are two coffee or tea place nearby, Cafe Venetia and Philz"
+      }
+    ],
+    [
+      {
+        "line": 19,
+        "content": "What is the address of Philz?"
+      },
+      {
+        "line": 20,
+        "content": "Philz is at 583 Alester Ave."
+      }
+    ],
+    [
+      {
+        "line": 21,
+        "content": "Which of the two are closest?"
+      },
+      {
+        "line": 22,
+        "content": "Cafe Venetia is the closest, it's 3 miles away with no traffic on the route. Set the GPS to to there?"
+      },
+      {
+        "line": 23,
+        "content": "Can you help me find a hotel called a and b guest house?"
+      },
+      {
+        "line": 24,
+        "content": "It is in the east, and moderately priced. Would you like to book a room?"
+      }
+    ],
+    [
+      {
+        "line": 25,
+        "content": "Can I get the address and phone number, please?"
+      },
+      {
+        "line": 26,
+        "content": "The address is 124 tenison road, postcode cb12dp. The phone number is 01223315702. Anything else?"
+      },
+      {
+        "line": 27,
+        "content": "I want to book a taxi to pick me up Travellers Rest to take me to Finches Bed and Breakfast."
+      },
+      {
+        "line": 28,
+        "content": "Sure! when would you like to arrive?"
+      }
+    ],
+    [
+      {
+        "line": 29,
+        "content": "I would like to arrive at the restaurant no later than ten o'clock a.m."
+      },
+      {
+        "line": 30,
+        "content": "I have confirmed a taxi booking for you, a red tesla will be picking you up."
+      },
+      {
+        "line": 31,
+        "content": "Ok great, can I have the contact number?"
+      },
+      {
+        "line": 32,
+        "content": "Sure its 07915006170. Is there anything else I can do for you?"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "line": 1,
+        "content": "There will be any hail in San Francisco on Thursday?"
+      },
+      {
+        "line": 2,
+        "content": "There will be no hail in San Francisco on Thursday."
+      }
+    ],
+    [
+      {
+        "line": 3,
+        "content": "Hi, can you help me find a place to stay? Something moderately priced with free wifi."
+      },
+      {
+        "line": 4,
+        "content": "I have 17 guesthouses and hotels that fit your criteria, do you have a preference for area?"
+      }
+    ],
+    [
+      {
+        "line": 5,
+        "content": "Not really, but I'm looking for something with 2 stars."
+      },
+      {
+        "line": 6,
+        "content": "The ashley hotel and the lovell lodge are both in the north and are in the moderate price range with 2 stars."
+      }
+    ],
+    [
+      {
+        "line": 7,
+        "content": "Will you book it for a party of 7. 5 days beginning Friday."
+      },
+      {
+        "line": 8,
+        "content": "Booking at the Ashley Hotel was successful. Reference number is : VFGG7DOD. Is there anything else I can help you with?"
+      }
+    ],
+    [
+      {
+        "line": 9,
+        "content": "Car I need a hotel to get some sleep: is there any in the local area?"
+      },
+      {
+        "line": 10,
+        "content": "Travelers Lodge is 4 miles away."
+      },
+      {
+        "line": 11,
+        "content": "What is the address?"
+      },
+      {
+        "line": 12,
+        "content": "Travelers Lodge is at 333 Arbol Dr."
+      },
+      {
+        "line": 13,
+        "content": "Set GPS for the fastest route please."
+      },
+      {
+        "line": 14,
+        "content": "There is a road block nearby, I'm afraid we will have to take a longer route.. I sent the info on your screen"
+      }
+    ],
+    [
+      {
+        "line": 15,
+        "content": "what's the weather going to be like for this week"
+      },
+      {
+        "line": 16,
+        "content": "Where can I tell you the weather about?"
+      }
+    ],
+    [
+      {
+        "line": 17,
+        "content": "Will it be windy in Durham next week?"
+      },
+      {
+        "line": 18,
+        "content": "It will not be windy on any day in Durham next week."
+      },
+      {
+        "line": 19,
+        "content": "I am looking for a particular hotel. Its name is called city centre north b and b"
+      },
+      {
+        "line": 20,
+        "content": "City centre north b and b is a guesthouse in the north and is in the cheap price range. Would you like me to make you a reservation?"
+      },
+      {
+        "line": 21,
+        "content": "Yes please. I need reservations for eight people starting this Wednesday and we need it for three nights."
+      },
+      {
+        "line": 22,
+        "content": "I'm sorry. The booking was unsuccessful. Do you want to change the number of nights or the starting day?"
+      }
+    ],
+    [
+      {
+        "line": 23,
+        "content": "Could you start the booking on Saturday?"
+      },
+      {
+        "line": 24,
+        "content": "Booking was successful. Reference number is : KA34QUWB."
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "line": 1,
+        "content": "what will the weather be like in the city"
+      },
+      {
+        "line": 2,
+        "content": "In what city would you like the weather information for?"
+      },
+      {
+        "line": 3,
+        "content": "I'd like to know if the weather will be hot in San Jose during the next week"
+      },
+      {
+        "line": 4,
+        "content": "The temperature in San Jose will reach a high of 100F on Sunday."
+      },
+      {
+        "line": 5,
+        "content": "Hi, can you look up Darrys Cookhouse and Wine Shop for me?"
+      },
+      {
+        "line": 6,
+        "content": "I sure can! Darry's Cookhouse is an expensive modern european restaurant in the center of town. They are located at 40270 King Street City Centre. Can I make you a reservation by chance?"
+      }
+    ],
+    [
+      {
+        "line": 7,
+        "content": "That's it. Can you make a reservation for me? There are 5 of us and we would like to reserve Sunday at 11:45 if possible."
+      },
+      {
+        "line": 8,
+        "content": "Reservation made. The reference number is FIQY6RR9."
+      },
+      {
+        "line": 9,
+        "content": "Thank you for the helpful information!"
+      },
+      {
+        "line": 10,
+        "content": "No problem at all. What else can I do for you?"
+      },
+      {
+        "line": 11,
+        "content": "check forecast for new york"
+      },
+      {
+        "line": 12,
+        "content": "The weather this week will be hail and rain on Thursday and Sunday, with the lowest temperature being 20F and the highest 90F, Monday will be the only hot day."
+      }
+    ],
+    [
+      {
+        "line": 13,
+        "content": "Will it be overcast on friday?"
+      },
+      {
+        "line": 14,
+        "content": "On Friday it will be cloudy on New York"
+      },
+      {
+        "line": 15,
+        "content": "I need a reminder for my doctor appointment on the 1st at 2 pm with Ana."
+      },
+      {
+        "line": 16,
+        "content": "Scheduling doctor appointment for the 1st at 2 pm with Ana."
+      }
+    ],
+    [
+      {
+        "line": 17,
+        "content": "Could you help me find a hotel on the west side with free WiFi?"
+      },
+      {
+        "line": 18,
+        "content": "I have four hotels listed that fit your criteria ranging in price from cheap to expensive. What price range are you looking for?"
+      },
+      {
+        "line": 19,
+        "content": "Price doesn't matter, really. But I would like to get free parking too, in addition to the wifi please."
+      },
+      {
+        "line": 20,
+        "content": "All 2 hotels and 2 guesthouses match your needs. May I recommend the Cambridge Belfry?"
+      }
+    ],
+    [
+      {
+        "line": 21,
+        "content": "Is that a hotel? I need a hotel and not a guesthouse."
+      },
+      {
+        "line": 22,
+        "content": "Yes, it is a hotel. Can I book it for you?"
+      },
+      {
+        "line": 23,
+        "content": "That would be great, thanks. We'll be arriving on Sunday."
+      },
+      {
+        "line": 24,
+        "content": "How many people are staying, and for how many days?"
+      }
+    ],
+    [
+      {
+        "line": 25,
+        "content": "6 people for 4 nights."
+      },
+      {
+        "line": 26,
+        "content": "Sorry but I was unable to book. Do you wanna change the day you book or the number of days?"
+      },
+      {
+        "line": 27,
+        "content": "How about two nights?"
+      },
+      {
+        "line": 28,
+        "content": "Yes, that did it. Your reference number is X5XFGMK0. Can I assist you with any other plans today?"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "line": 1,
+        "content": "what's the weather like in grand rapids"
+      },
+      {
+        "line": 2,
+        "content": "What can I tell you about grand rapids weather?"
+      },
+      {
+        "line": 3,
+        "content": "If it will be misty over the next two days"
+      },
+      {
+        "line": 4,
+        "content": "Drizzle is predicted in grand rapids, followed by clear skies"
+      }
+    ],
+    [
+      {
+        "line": 5,
+        "content": "Hey, I need a place to stay with free wifi and free parking."
+      },
+      {
+        "line": 6,
+        "content": "I have several options to offer you, is there an area of town, or price range you'd like?"
+      },
+      {
+        "line": 7,
+        "content": "Thanks! I really don't care about the area. I need stay in a guesthouse that has free wifi and parking."
+      },
+      {
+        "line": 8,
+        "content": "In order to try to narrow down your options, do you prefer a cheaper place or something moderately priced?"
+      },
+      {
+        "line": 9,
+        "content": "I don't mind about the price but I want something with 4 stars ."
+      },
+      {
+        "line": 10,
+        "content": "How about the Archway House? it is moderately priced in the north."
+      }
+    ],
+    [
+      {
+        "line": 11,
+        "content": "That sounds nice. Can you get it for four nights starting Thursday?"
+      },
+      {
+        "line": 12,
+        "content": "I will be happy to book it for you! How many people will be staying?"
+      },
+      {
+        "line": 13,
+        "content": "Four people. Thanks."
+      },
+      {
+        "line": 14,
+        "content": "I've book the hotel for you for 4 people on Thursday. The reference number is QMOZPFHQ."
+      }
+    ],
+    [
+      {
+        "line": 15,
+        "content": "I'd like to find a restaurant that serves Chinese food in the south please."
+      },
+      {
+        "line": 16,
+        "content": "There are 3 restaurants in the South part of town that serve Chinese food. Would you like more information on one of them?"
+      },
+      {
+        "line": 17,
+        "content": "Yes, I would prefer an expensive one please."
+      },
+      {
+        "line": 18,
+        "content": "I have two that would be on the expensive side. The Good Luck Chinese Food Takeaway and the Peking Restaurant. Can I reserve a table for you at either of these?"
+      },
+      {
+        "line": 19,
+        "content": "No, not yet, thanks. Could you give me the address/postcode for Peking Restaurant?"
+      },
+      {
+        "line": 20,
+        "content": "The address for peking restaurant is 10 homerton street city centre and its postcode is cb28nx."
+      }
+    ],
+    [
+      {
+        "line": 21,
+        "content": "Alright, sounds good."
+      },
+      {
+        "line": 22,
+        "content": "Is there anything else I can do for you?"
+      },
+      {
+        "line": 23,
+        "content": "I'd like to find a guesthouse to stay."
+      },
+      {
+        "line": 24,
+        "content": "No problem. We have 24 to choose from. Any specifics?"
+      },
+      {
+        "line": 25,
+        "content": "I'm looking for one with free parking and wifi and which has a 3-star rating."
+      },
+      {
+        "line": 26,
+        "content": "Okay, there are three: Bridge Guest House in the south, Hamilton Lodge in the north, and Hobsons House in the west. Would one of these work for you?"
+      }
+    ],
+    [
+      {
+        "line": 27,
+        "content": "Can I have the address for Hamilton Lodge?"
+      },
+      {
+        "line": 28,
+        "content": "Certainly. It's located at 156 chesterton road. Anything else you'd like to know?"
+      }
+    ],
+    [
+      {
+        "line": 29,
+        "content": "Yes, I'm not familiar with that address. What part of town is that in?"
+      },
+      {
+        "line": 30,
+        "content": "It is in the North part of town."
+      },
+      {
+        "line": 31,
+        "content": "Where can I get Chinese food?"
+      },
+      {
+        "line": 32,
+        "content": "Tai Pan is 4 miles away."
+      },
+      {
+        "line": 33,
+        "content": "Please pick a route to avoid all heavy traffic and let's go there, thank you"
+      },
+      {
+        "line": 34,
+        "content": "The only route to Tai Pan at 830 Almanor Ln has heavy traffic. Do you still want to go there?"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "line": 1,
+        "content": "I need you to find out the time and who is attending my yoga activity."
+      },
+      {
+        "line": 2,
+        "content": "You have three yoga activities scheduled. One at 3pm with Jon, another at 4pm with your mother, and the last is at 3pm with your aunt. Do you need any more info?"
+      },
+      {
+        "line": 3,
+        "content": "Hello, I need information for the nearest police station please."
+      },
+      {
+        "line": 4,
+        "content": "The telephone is 01223358966 and the address is Parkside, Cambridge. Is there anything else I can help you with?"
+      },
+      {
+        "line": 5,
+        "content": "Can I have the postcode please?"
+      },
+      {
+        "line": 6,
+        "content": "The postcode is CB11JG. Can I help you with anything else?"
+      }
+    ],
+    [
+      {
+        "line": 7,
+        "content": "what will the weather be like tomorrow"
+      },
+      {
+        "line": 8,
+        "content": "What city are you wanting to know the weather for?"
+      },
+      {
+        "line": 9,
+        "content": "I want to know if Menlo Park is going to be cloudy tomorrow?"
+      },
+      {
+        "line": 10,
+        "content": "The weather forecast does not predict cloudy skies in Menlo Park tomorrow."
+      }
+    ],
+    [
+      {
+        "line": 11,
+        "content": "Please help me with a taxi"
+      },
+      {
+        "line": 12,
+        "content": "Sure! where are you going?"
+      }
+    ],
+    [
+      {
+        "line": 13,
+        "content": "I'm going to pizza hut fen ditton."
+      },
+      {
+        "line": 14,
+        "content": "Where will you be coming from?"
+      }
+    ],
+    [
+      {
+        "line": 15,
+        "content": "I am leaving from the beautiful saint catharine's college."
+      },
+      {
+        "line": 16,
+        "content": "What time would you like to be picked up from your start point, or dropped off at your destination?"
+      },
+      {
+        "line": 17,
+        "content": "Oh anytime after 11:45 a.m would be fine"
+      },
+      {
+        "line": 18,
+        "content": "Booking completed! Booked car type : black volvo Contact number : 07089951396"
+      }
+    ],
+    [
+      {
+        "line": 19,
+        "content": "I'm looking for a place to go in the centre of town."
+      },
+      {
+        "line": 20,
+        "content": "There are a lot of attractions in the centre. Anything in particular?"
+      },
+      {
+        "line": 21,
+        "content": "I'd like a nightclub please."
+      },
+      {
+        "line": 22,
+        "content": "I recommend the club salsa? Here is their phone number, 07782218745"
+      },
+      {
+        "line": 23,
+        "content": "What is their address and the entrance fee?"
+      },
+      {
+        "line": 24,
+        "content": "The address is 1 Station road and the entrance fee is 5 pounds. Is there anything else I can do for you?"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "line": 1,
+        "content": "I need a train leaving cambridge after 17:30."
+      },
+      {
+        "line": 2,
+        "content": "Okay, is there somewhere specific you would like to travel to?"
+      }
+    ],
+    [
+      {
+        "line": 3,
+        "content": "I want to go to Stansted Airport on Saturday."
+      },
+      {
+        "line": 4,
+        "content": "How many tickets would you like?"
+      },
+      {
+        "line": 5,
+        "content": "I am not sure yet, could you tel me how long the train takes to get there?"
+      },
+      {
+        "line": 6,
+        "content": "The train ride lasts 28 minutes. Would you like to book a ticket now?"
+      },
+      {
+        "line": 7,
+        "content": "No, thank you."
+      },
+      {
+        "line": 8,
+        "content": "Ok, is there another train I can check for you?"
+      }
+    ],
+    [
+      {
+        "line": 9,
+        "content": "No that is all thank you."
+      },
+      {
+        "line": 10,
+        "content": "Okay don't hesitate to call us if you need further assistance."
+      },
+      {
+        "line": 11,
+        "content": "I'm looking for a place to stay in the center of town that has free wifi."
+      },
+      {
+        "line": 12,
+        "content": "I have five matches for your requirements. Do you have preferences for price range or quality ratings? For example, the Alexander B&B is inexpensive, but rated 4 stars."
+      },
+      {
+        "line": 13,
+        "content": "By chance, is that a guesthouse? And does it offer free wifi and parking?"
+      },
+      {
+        "line": 14,
+        "content": "Yes, the Alexander B&B is a guest house, and offers both free WiFi and free parking."
+      }
+    ],
+    [
+      {
+        "line": 15,
+        "content": "Wonderful. Can you book a room for 6 people coming in on Friday for 5 nights?"
+      },
+      {
+        "line": 16,
+        "content": "That booking was successful, your reference number is 3KW6V911. Is there anything else I can help do for you?"
+      },
+      {
+        "line": 17,
+        "content": "Good afternoon, I need to make arrangements to leave Stevenage on Monday by train. Would you help me please?"
+      },
+      {
+        "line": 18,
+        "content": "What is your destination?"
+      }
+    ],
+    [
+      {
+        "line": 19,
+        "content": "Cambridge is my destination"
+      },
+      {
+        "line": 20,
+        "content": "There are several options. What time would you like to depart?"
+      }
+    ],
+    [
+      {
+        "line": 21,
+        "content": "I wish to leave sometime after 14:15."
+      },
+      {
+        "line": 22,
+        "content": "How about TR5825?"
+      }
+    ],
+    [
+      {
+        "line": 23,
+        "content": "thats still alright. give me the reference number too please"
+      },
+      {
+        "line": 24,
+        "content": "How many tickets do you need, please? Is it one?"
+      },
+      {
+        "line": 25,
+        "content": "I need 2 tickets please."
+      },
+      {
+        "line": 26,
+        "content": "The booking was successful, your reference number is 8C5GS6IL. The total fee will be 25.6 GBP, payable at the station. Is there anything else I can help you with?"
+      }
+    ],
+    [
+      {
+        "line": 27,
+        "content": "where can i go to eat"
+      },
+      {
+        "line": 28,
+        "content": "There are 3 pizzeria and a chinese restaurant in the area: what would you like to eat?"
+      }
+    ],
+    [
+      {
+        "line": 29,
+        "content": "I'd like pizza! Which pizzeria is the closest one?"
+      },
+      {
+        "line": 30,
+        "content": "There is moderate traffic to Pizza My Heart 1 mile away at 528 Anton Ct"
+      }
+    ],
+    [
+      {
+        "line": 31,
+        "content": "Can you show me a quick route to reach there?"
+      },
+      {
+        "line": 32,
+        "content": "Certainly, setting navigation now."
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "line": 1,
+        "content": "I'm looking for a guesthouse. But I won't have a car with me, so I don't need any rigamarole with \"free\" parking."
+      },
+      {
+        "line": 2,
+        "content": "Sure! There is a three-star guesthouse without free parking at 63 Milton Road. Would you like me to book the hotel for you?"
+      },
+      {
+        "line": 3,
+        "content": "what area of town? what's the price?"
+      },
+      {
+        "line": 4,
+        "content": "Alpha-milton guest house has a moderate price range in the north, as is Avalon guesthouse. a and b is in the east, also moderate."
+      },
+      {
+        "line": 5,
+        "content": "Are there any hotels in the expensive price range in the north?"
+      },
+      {
+        "line": 6,
+        "content": "name type area pricerange stars internet parking phone postcode address book (optional) alpha-milton guest house guesthouse north moderate 3 no no 01223311625 cb41xa 63 milton road avalon guesthouse north moderate 4 yes no 01223353071 cb43pd 62 gilbert road are the available options"
+      },
+      {
+        "line": 7,
+        "content": "surprise me! i need a booking for 6 people 2 nights starting on friday."
+      }
+    ],
+    [
+      {
+        "line": 8,
+        "content": "You are booked into the Avalon which is moderately priced. There were no guesthouses in the expensive range. Your reference number is WSPNWZI0."
+      },
+      {
+        "line": 9,
+        "content": "Great, thank you for help. That is all I need today."
+      },
+      {
+        "line": 10,
+        "content": "Thank you for using our services. Have a great stay!"
+      },
+      {
+        "line": 11,
+        "content": "schedule a conference"
+      }
+    ],
+    [
+      {
+        "line": 12,
+        "content": "I was in a car accident and have a dispute with the other driver so please contact the police and tell them I need help."
+      },
+      {
+        "line": 13,
+        "content": "The cops are on the way. What is your location? Is anyone hurt?"
+      }
+    ],
+    [
+      {
+        "line": 14,
+        "content": "No, I just need their phone number."
+      },
+      {
+        "line": 15,
+        "content": "The phone number is 01223358966."
+      }
+    ],
+    [
+      {
+        "line": 16,
+        "content": "Remind me at 4pm next Wednesday about my conference with the sales team."
+      },
+      {
+        "line": 17,
+        "content": "Setting reminder for conference at 4 pm on next Wednesday with the sales team."
+      }
+    ],
+    [
+      {
+        "line": 18,
+        "content": "I have had an injury! Where do I find the nearest hospital?"
+      },
+      {
+        "line": 19,
+        "content": "Sorry to hear that! The closest hospital is at Hills Rd, Cambridge."
+      },
+      {
+        "line": 20,
+        "content": "What is the postcode?"
+      },
+      {
+        "line": 21,
+        "content": "The post code is CB20QQ. Is there anything else I can help you with?"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "line": 1,
+        "content": "Where does my friend live?"
+      },
+      {
+        "line": 2,
+        "content": "You have two friends listed; Jill and Tom, which one?"
+      },
+      {
+        "line": 3,
+        "content": "The one closest to my location."
+      },
+      {
+        "line": 4,
+        "content": "Jill's house is 5 miles away but there is a road block nearby. Tom's house is 8 miles away but we should pass through the same road block"
+      }
+    ],
+    [
+      {
+        "line": 5,
+        "content": "Well Jill is closer so let's go there."
+      },
+      {
+        "line": 6,
+        "content": "Sure, I sent the route on your map"
+      },
+      {
+        "line": 7,
+        "content": "I'd like to locate Addenbrookes Hospital, please."
+      },
+      {
+        "line": 8,
+        "content": "Hills Road, Cambridge"
+      }
+    ],
+    [
+      {
+        "line": 9,
+        "content": "And what's the postcode and the main phone number?"
+      },
+      {
+        "line": 10,
+        "content": "Addenbrookes Hospital has a postcode of CB20QQ, and telephone number is 01223245151. Can I help with anything else?"
+      },
+      {
+        "line": 11,
+        "content": "Good afternoon, would you kindly tell me where the Parkside Police Station is?"
+      },
+      {
+        "line": 12,
+        "content": "Sure. The Parkside Police Station is at Parkside, Cambridge. Is there anything else I can assist you with?"
+      },
+      {
+        "line": 13,
+        "content": "Yes, please provide me with the address and postcode."
+      },
+      {
+        "line": 14,
+        "content": "Parkside, Cambridge Postcode :CB11JG. Do you need anything else?"
+      }
+    ],
+    [
+      {
+        "line": 15,
+        "content": "What is today's forecast in San Francisco?"
+      },
+      {
+        "line": 16,
+        "content": "There will be hail today."
+      },
+      {
+        "line": 17,
+        "content": "i want to book a taxi."
+      },
+      {
+        "line": 18,
+        "content": "Where are you departing from?"
+      }
+    ],
+    [
+      {
+        "line": 19,
+        "content": "I want to be picked up from lan hong house and taken to great saint mary's church please"
+      },
+      {
+        "line": 20,
+        "content": "Sure, can you please give me a few details on departure site, time, etc?"
+      },
+      {
+        "line": 21,
+        "content": "As I said, I want to be picked up from lan hong house and taken to great saint mary's church please. I would like to arrive by 20:15."
+      },
+      {
+        "line": 22,
+        "content": "A yellow BMW will pick you up at Lan Hong House for arrival at Great Saint Mary's Church by 20:15. Their Contact number is 07224360909. Is there anything further today?"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "line": 1,
+        "content": "I was just caught up in a disagreement with another motorist about a road accident and I am in need of some help!"
+      },
+      {
+        "line": 2,
+        "content": "The Parkside Police Station telephone number is 01223358966 and the address is Parkside, Cambridge, postcode CB11JG."
+      }
+    ],
+    [
+      {
+        "line": 3,
+        "content": "On what day and time should i be taking my medicine?"
+      },
+      {
+        "line": 4,
+        "content": "Taking medicine is scheduled for Sunday at 3 pm and on the 4th at 1 pm."
+      }
+    ],
+    [
+      {
+        "line": 5,
+        "content": "I am looking for a hospital in town with a cardiology and coronary care unit."
+      },
+      {
+        "line": 6,
+        "content": "Fortunately, our hostpital, Addenbrookes, does have a C&C department. Would like like to contact them?"
+      }
+    ],
+    [
+      {
+        "line": 7,
+        "content": "Yes, I would like the address, postcode, and phone number."
+      },
+      {
+        "line": 8,
+        "content": "I can help with that. The phone number is 01223245151. Addenbrookes Hospital is located on Hills Road. The postcode is CB20QQ. Is there anything else I can provide?"
+      }
+    ],
+    [
+      {
+        "line": 9,
+        "content": "Thank you, that is all I need."
+      },
+      {
+        "line": 10,
+        "content": "You're welcome! And the phone number for the specific department you need is 01223256459."
+      },
+      {
+        "line": 11,
+        "content": "Looking for a restaurant in the east side that serves basque food."
+      },
+      {
+        "line": 12,
+        "content": "I did not find any restaurants with that criteria. Do you want to change the area?"
+      }
+    ],
+    [
+      {
+        "line": 13,
+        "content": "Will you look for indian food in the east?"
+      },
+      {
+        "line": 14,
+        "content": "How about Curry prince? It is indian food."
+      },
+      {
+        "line": 15,
+        "content": "Perfect! I would like a table for 2 at 16:00 on Tuesday"
+      },
+      {
+        "line": 16,
+        "content": "I was unable to complete your booking. Would you like to try another day or time slot?"
+      }
+    ],
+    [
+      {
+        "line": 17,
+        "content": "Would 15:00 on the same day work?"
+      },
+      {
+        "line": 18,
+        "content": "The booking was successful for Tuesday at 15:00 for a party of 2. Your reference number is H2VOXSP6. Is there anything else I can help you with?"
+      },
+      {
+        "line": 19,
+        "content": "Can you book me a taxi to arrive by 23:30? Oh, and I am departing from wandlebury country park."
+      },
+      {
+        "line": 20,
+        "content": "I would be happy to book that, first I will need to know your destination."
+      },
+      {
+        "line": 21,
+        "content": "I want to go the Tandoori Palace."
+      },
+      {
+        "line": 22,
+        "content": "07903665107 is the contact number, I have you in a black honda."
+      }
+    ],
+    [
+      {
+        "line": 23,
+        "content": "Thank you so much you've been very helpful."
+      },
+      {
+        "line": 24,
+        "content": "Is there anything else I can help you with?"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "line": 1,
+        "content": "I need a train that is leaving on sunday and leaving after 13:30."
+      },
+      {
+        "line": 2,
+        "content": "I would be happy to help you. I have 221 trains departing Sunday, what day/time will you be departing and what is your destination?"
+      },
+      {
+        "line": 3,
+        "content": "I need to leave Cambridge after 13:30 to go to Stevenage."
+      },
+      {
+        "line": 4,
+        "content": "I have trains leaving to there, what time would you like to arrive by?"
+      }
+    ],
+    [
+      {
+        "line": 5,
+        "content": "That really shouldn't matter, I just need the booking for six."
+      },
+      {
+        "line": 6,
+        "content": "Okay, you have six tickets reserved on TR4550. The total fee is 61.44 GBP payable at the station, and your reference number is P9P4UBVH."
+      },
+      {
+        "line": 7,
+        "content": "I need a taxi please to express by holiday inn cambridge"
+      },
+      {
+        "line": 8,
+        "content": "Okay, I will need to know where you are leaving from and what time you would like to leave."
+      }
+    ],
+    [
+      {
+        "line": 9,
+        "content": "I will be leaving from leverton house arriving by 06:45."
+      },
+      {
+        "line": 10,
+        "content": "Booking is complete. Your car is a white tesla and contact number is 07609996919."
+      }
+    ],
+    [
+      {
+        "line": 11,
+        "content": "is it going to be cloudy in the next 7 days"
+      },
+      {
+        "line": 12,
+        "content": "What city can I give you this weather information for?"
+      }
+    ],
+    [
+      {
+        "line": 13,
+        "content": "I'm in Boston but i will only be needing info on the next two days."
+      },
+      {
+        "line": 14,
+        "content": "It will not be cloudy in Boston in the next two days."
+      },
+      {
+        "line": 15,
+        "content": "I need a restaurant located in the centre for a moderate price."
+      },
+      {
+        "line": 16,
+        "content": "Sure, I can help you with that. I have 21 restaurants available. Would you like a certain type of food?"
+      },
+      {
+        "line": 17,
+        "content": "I am looking just for any restaurant available for 5 people at 13:45 on saturday."
+      },
+      {
+        "line": 18,
+        "content": "I was able to book Yippee Noodle Bar and your reference is 7J4EXP7M."
+      }
+    ],
+    [
+      {
+        "line": 19,
+        "content": "Great! Thank you very much!"
+      },
+      {
+        "line": 20,
+        "content": "Is there anything else I can help you with?"
+      }
+    ],
+    [
+      {
+        "line": 21,
+        "content": "Will the weather be hail in Alhambra during the next seven days?"
+      },
+      {
+        "line": 22,
+        "content": "There shouldn't be any hail during the next seven days in Alhambra"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "line": 1,
+        "content": "I am looking for a restaurant in the centre that serves african food."
+      },
+      {
+        "line": 2,
+        "content": "The bedouin serves african food at 100 Mill Road City Centre. Would you like to make a booking?"
+      },
+      {
+        "line": 3,
+        "content": "I would like a restaurant in the expensive price range please."
+      },
+      {
+        "line": 4,
+        "content": "Bedouin is expensive. Would you like to book there?"
+      }
+    ],
+    [
+      {
+        "line": 5,
+        "content": "Yes. I want to book a table for 3 people on Tuesday at 19:45."
+      },
+      {
+        "line": 6,
+        "content": "That time slot is unavailable. Is there another time slot you want to book?"
+      },
+      {
+        "line": 7,
+        "content": "Could you try 18:45 instead?"
+      },
+      {
+        "line": 8,
+        "content": "Your table has been reserved at for 3 at 18:45 on Tuesday. The reference number is IE3WWFDN."
+      }
+    ],
+    [
+      {
+        "line": 9,
+        "content": "Am injured and are looking for a hospital nearby it should have the infectious diseases department."
+      },
+      {
+        "line": 10,
+        "content": "The Addenbrookes Hospital has a phone number of 01223217314 for the infectious diseases department."
+      },
+      {
+        "line": 11,
+        "content": "Thank you. Can I have the postcode?"
+      },
+      {
+        "line": 12,
+        "content": "Their postcode is CB20QQ. Can I get you any more information about them?"
+      },
+      {
+        "line": 13,
+        "content": "No, that's all I needed. Thanks!"
+      },
+      {
+        "line": 14,
+        "content": "welcome. at your service next time"
+      }
+    ],
+    [
+      {
+        "line": 15,
+        "content": "I am looking for the price range and address of the Meze Bar Restaurant"
+      },
+      {
+        "line": 16,
+        "content": "They are in the expensive price range, and their address is 196 Mill Road City Centre. Can I help you with anything else?"
+      },
+      {
+        "line": 17,
+        "content": "set a reminder for tennis"
+      },
+      {
+        "line": 18,
+        "content": "Reminder for event Tennis set."
+      }
+    ],
+    [
+      {
+        "line": 19,
+        "content": "Hi there, would you tell me the address of a hospital located here in town?"
+      },
+      {
+        "line": 20,
+        "content": "The Addenbrookes Hospital is located at Hills Rd, Cambridge."
+      }
+    ],
+    [
+      {
+        "line": 21,
+        "content": "Do you have the hospital's postcode?"
+      },
+      {
+        "line": 22,
+        "content": "The postcode is CB20QQ."
+      },
+      {
+        "line": 23,
+        "content": "Thank you for your help"
+      },
+      {
+        "line": 24,
+        "content": "You are welcome. Anything else I can help you with?"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "line": 1,
+        "content": "I am looking for a train departing from London Kings Cross."
+      },
+      {
+        "line": 2,
+        "content": "I have 70 trains departing from that location, do you have any more information to narrow it down some?"
+      },
+      {
+        "line": 3,
+        "content": "Yes, I'd like to go to Cambridge on Tuesday, sometime after 13:15."
+      },
+      {
+        "line": 4,
+        "content": "Train TR3456 leaves London Kings Cross at 13:17 and arrives in Cambridge at 14:08. Would you like to book this train?"
+      },
+      {
+        "line": 5,
+        "content": "I think that will work. What is the ticket price and travel time for that train?"
+      },
+      {
+        "line": 6,
+        "content": "The ticket price is 23.60 pounds. Travel time on this route is 51 minutes. Would you like me to arrange a booking on this train?"
+      }
+    ],
+    [
+      {
+        "line": 7,
+        "content": "Yes, that sounds good."
+      },
+      {
+        "line": 8,
+        "content": "Great, I have booked your ticket. Your reference number is : 3TF3UIGP."
+      },
+      {
+        "line": 9,
+        "content": "Okay thank you for all your help."
+      },
+      {
+        "line": 10,
+        "content": "You're quite welcome. Is there anything else I can assist you with today?"
+      },
+      {
+        "line": 11,
+        "content": "Could you help me find a moderately priced guesthouse?"
+      },
+      {
+        "line": 12,
+        "content": "Yes, there are 15 places that are moderately priced guesthouses. Is there a certain area of town that you prefer?"
+      }
+    ],
+    [
+      {
+        "line": 13,
+        "content": "I'd prefer something in the center of town that has free wifi."
+      },
+      {
+        "line": 14,
+        "content": "I apologize but we don't have anything that fits your criteria. Would you like to change the area or try a hotel?"
+      },
+      {
+        "line": 15,
+        "content": "Oh, that's a bummer. Ok, how about trying in the north?"
+      },
+      {
+        "line": 16,
+        "content": "Of course! I have 8 options: 7 of which have 4 stars and 1 has 3 stars. Would you like more information?"
+      }
+    ],
+    [
+      {
+        "line": 17,
+        "content": "The stars don't matter. Please book one for 3 people for 5 nights, starting Sunday."
+      },
+      {
+        "line": 18,
+        "content": "That booking was unsuccessful. Will any other length of stay or starting day be possible?"
+      },
+      {
+        "line": 19,
+        "content": "Let's try to start on Monday."
+      },
+      {
+        "line": 20,
+        "content": "I'm sorry, but there's nothing available starting on Monday."
+      }
+    ],
+    [
+      {
+        "line": 21,
+        "content": "I actually would like it to be on Sunday for 2 nights."
+      },
+      {
+        "line": 22,
+        "content": "I have reserved 2 nights for 3 people starting on Sunday at the Acorn Guest house which is in the north of the city, is moderately priced and has internet. Reference K0RIYU4Z."
+      }
+    ],
+    [
+      {
+        "line": 23,
+        "content": "I was in a car accident dispute and I am looking for help"
+      },
+      {
+        "line": 24,
+        "content": "When and where did this accident occur?"
+      },
+      {
+        "line": 25,
+        "content": "I just need an address and phone number for the police please"
+      },
+      {
+        "line": 26,
+        "content": "Absolutely! The police station phone number is 01223358966 and their address is Parkside, Cambridge. What else can I do to help?"
+      },
+      {
+        "line": 27,
+        "content": "I'd like a taxi to the cafe jello gallery please."
+      },
+      {
+        "line": 28,
+        "content": "I would be happy to help you with that. I will need to know where you are departing from and what time you'd like picked up."
+      }
+    ],
+    [
+      {
+        "line": 29,
+        "content": "I'd like to picked up from cafe jello gallery after 12:30."
+      },
+      {
+        "line": 30,
+        "content": "I'm sorry. It seems like your destination and departure site are the same. Could you clarify where you'd like to go and where you'd like to be picked up from?"
+      }
+    ],
+    [
+      {
+        "line": 31,
+        "content": "So Sorry, i want to leave cafe jello gallery after 12:30 going to the junction."
+      },
+      {
+        "line": 32,
+        "content": "That's no problem. I book a White Skoda for you, picking you up at 12:30. The contact # is 07258655313. Can I assist you further?"
+      },
+      {
+        "line": 33,
+        "content": "I'm are looking for a train. The train should go to cambridge and should leave on saturday."
+      },
+      {
+        "line": 34,
+        "content": "Where will you be departing from?"
+      }
+    ],
+    [
+      {
+        "line": 35,
+        "content": "I will be departing from Norwich."
+      },
+      {
+        "line": 36,
+        "content": "What tie would you like to leave Norwich?"
+      },
+      {
+        "line": 37,
+        "content": "I would like to leave after 14:30 ."
+      },
+      {
+        "line": 38,
+        "content": "I have several trains. How would TR1156 work for you, it leaves at 15:16 arriving at 16:35?"
+      },
+      {
+        "line": 39,
+        "content": "Yes. That works. I need 3 tickets, please."
+      },
+      {
+        "line": 40,
+        "content": "Booking was successful, the total fee is 70.4 GBP payable at the station . Reference number is : 1MI35913."
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "line": 1,
+        "content": "Good day. Might you be able to assist me with a taxi going to Corpus Christi leaving sometime after 08:45?"
+      },
+      {
+        "line": 2,
+        "content": "Sure I can do that! Where is the departure site?"
+      }
+    ],
+    [
+      {
+        "line": 3,
+        "content": "I need it to pick me up from gourmet burger kitchen."
+      },
+      {
+        "line": 4,
+        "content": "The car coming is a White Tesla with contact number is: 07441094025"
+      }
+    ],
+    [
+      {
+        "line": 5,
+        "content": "Thank you so much."
+      },
+      {
+        "line": 6,
+        "content": "Is there anything else I can help you with today?"
+      },
+      {
+        "line": 7,
+        "content": "what's the forecast report"
+      },
+      {
+        "line": 8,
+        "content": "What city do you want the weather for?"
+      },
+      {
+        "line": 9,
+        "content": "Cleveland"
+      },
+      {
+        "line": 10,
+        "content": "What days are you interested in?"
+      }
+    ],
+    [
+      {
+        "line": 11,
+        "content": "Will it snow in the next two days in Cleveland?"
+      },
+      {
+        "line": 12,
+        "content": "There is no snow scheduled in Cleveland for the next two days. The forecast for Monday is foggy, low of 40F, high of 60F. The forecast for Tuesday is hot, low of 70F, high of 80F."
+      }
+    ],
+    [
+      {
+        "line": 13,
+        "content": "Do you have any information on the University Arms Hotel? I've heard it's a nice place."
+      },
+      {
+        "line": 14,
+        "content": "I sure do. The University Arms hotel is a more expensive hotel in the centre of town. It has 4 stars and includes free wifi and free parking."
+      }
+    ],
+    [
+      {
+        "line": 15,
+        "content": "I need a room for one person starting sunday for 3 nights"
+      },
+      {
+        "line": 16,
+        "content": "Unfortunately, they don't have availability for that day and length of stay. Would you like to stay on another day or shorten the stay?"
+      }
+    ],
+    [
+      {
+        "line": 17,
+        "content": "All right, what about 2 nights?"
+      },
+      {
+        "line": 18,
+        "content": "Booking was successful for 2 nights on Sunday for 1. Your reference number is YK9Z9AKE. Is there anything more I can assist you with?"
+      },
+      {
+        "line": 19,
+        "content": "I want to book a taxi going to Christ's College departing from City Stop restaurant please."
+      },
+      {
+        "line": 20,
+        "content": "When would you like to arrive by?"
+      }
+    ],
+    [
+      {
+        "line": 21,
+        "content": "Doesn't matter, but I need to leave after 14:15"
+      },
+      {
+        "line": 22,
+        "content": "I was able to book you a black Volkswagen for 14:15, the contact number is 07944381295."
+      }
+    ],
+    [
+      {
+        "line": 23,
+        "content": "Thank you very much."
+      },
+      {
+        "line": 24,
+        "content": "Will there be anything else today, or have I answered all your questions?"
+      }
+    ],
+    [
+      {
+        "line": 25,
+        "content": "I am looking for a place to stay. The hotel should be in the type of guesthouse and doesn't need to include internet"
+      },
+      {
+        "line": 26,
+        "content": "Alright, I've found several options. What price range are you looking for?"
+      },
+      {
+        "line": 27,
+        "content": "It doesn't matter"
+      },
+      {
+        "line": 28,
+        "content": "Alpha-milton guest house doesn't offer internet. It is rated three stars, in the north part of town. Should I book this?"
+      },
+      {
+        "line": 29,
+        "content": "No, I need a guesthouse with free wifi."
+      },
+      {
+        "line": 30,
+        "content": "a and b guest house is a guesthouse that includes wifi. It's in the East side of town with a moderate price range. Should I book it for you?"
+      }
+    ],
+    [
+      {
+        "line": 31,
+        "content": "No, I just need to know if they have free parking."
+      },
+      {
+        "line": 32,
+        "content": "They do not have parking."
+      }
+    ],
+    [
+      {
+        "line": 33,
+        "content": "Ok, I would prefer something else with parking."
+      },
+      {
+        "line": 34,
+        "content": "Allenbell looks like it would be a good choice."
+      }
+    ],
+    [
+      {
+        "line": 35,
+        "content": "Thanks, does it have free wifi as well?"
+      },
+      {
+        "line": 36,
+        "content": "Yes, they provide both internet and parking at their establishment."
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "line": 1,
+        "content": "I aM looking for a train. The train should depart from peterborough and should leave after 12:30."
+      },
+      {
+        "line": 2,
+        "content": "There are a number of trains that could work for you. Do you have a time you'd like to arrive by? Or a day of the week you'd like to travel?"
+      },
+      {
+        "line": 3,
+        "content": "I'm headed to Cambridge on Tuesday."
+      },
+      {
+        "line": 4,
+        "content": "Train TR7307 leaves Peterborough at 12:48 Tuesday, and will arrive at Cambridge by 13:38. Would you like me to book it for you?"
+      }
+    ],
+    [
+      {
+        "line": 5,
+        "content": "I don't want to book yet but could you tell me the travel time?"
+      },
+      {
+        "line": 6,
+        "content": "should i book for you?"
+      }
+    ],
+    [
+      {
+        "line": 7,
+        "content": "No I JUST told you I only want the travel time!"
+      },
+      {
+        "line": 8,
+        "content": "Train TR7307 Leaves at 12:48 and arrives by 13:38. Is there anything else that I can help you with today?"
+      },
+      {
+        "line": 9,
+        "content": "I need a taxi departing from tang chinese."
+      },
+      {
+        "line": 10,
+        "content": "Ok, what is your destination?"
+      },
+      {
+        "line": 11,
+        "content": "I need to get to Downing college."
+      },
+      {
+        "line": 12,
+        "content": "Great. Now I will just need a time."
+      }
+    ],
+    [
+      {
+        "line": 13,
+        "content": "I need to arrive by 19:30"
+      },
+      {
+        "line": 14,
+        "content": "Alright. I have a white bmw and the contact number is 07454674026. Anything else?"
+      },
+      {
+        "line": 15,
+        "content": "No that is all I needed."
+      },
+      {
+        "line": 16,
+        "content": "I'm sorry, I thought you wanted to leave at 19:30. You are booked for a yellow bmw with the contact number 07816577086 arriving at 19:30."
+      }
+    ],
+    [
+      {
+        "line": 17,
+        "content": "Great. Thank you very much."
+      },
+      {
+        "line": 18,
+        "content": "Can I help you with anything else?"
+      }
+    ],
+    [
+      {
+        "line": 19,
+        "content": "Yes, I'm going to need a train on Sunday."
+      },
+      {
+        "line": 20,
+        "content": "There are 404 trains departing on Sunday. Can you give me a departure point and a destination point, please?"
+      }
+    ],
+    [
+      {
+        "line": 21,
+        "content": "i want to go from norwich to cambridge"
+      },
+      {
+        "line": 22,
+        "content": "Is there a certain time you would like to leave Norwich by?"
+      },
+      {
+        "line": 23,
+        "content": "I would like to arrive in Cambridge by 14:15."
+      },
+      {
+        "line": 24,
+        "content": "I have eight trains arriving by then, how many passengers?"
+      },
+      {
+        "line": 25,
+        "content": "I need a booking for two passengers."
+      },
+      {
+        "line": 26,
+        "content": "Booked, Your reference number is 845YKY14. You pay 28.16 at the station. You will leave at 12:16 and arrive at 13:35. Trainid: TR5225."
+      }
+    ],
+    [
+      {
+        "line": 27,
+        "content": "Hey there. Can you help me find a swimming pool here in the city?"
+      },
+      {
+        "line": 28,
+        "content": "We have four such places. Got a preference for area?"
+      }
+    ],
+    [
+      {
+        "line": 29,
+        "content": "Not really, no. Any area will do. Can you recommend one and provide me the phone number?"
+      },
+      {
+        "line": 30,
+        "content": "The parkside pools is in the centre area, phone number 01223446100. Can I help you any further?"
+      },
+      {
+        "line": 31,
+        "content": "I am looking for a train to cambridge."
+      },
+      {
+        "line": 32,
+        "content": "Alright, what day are you looking to travel?"
+      },
+      {
+        "line": 33,
+        "content": "I want to travel this Sunday, please."
+      },
+      {
+        "line": 34,
+        "content": "Okay, and what time do you want to leave?"
+      }
+    ],
+    [
+      {
+        "line": 35,
+        "content": "I need to leave after 19:15."
+      },
+      {
+        "line": 36,
+        "content": "I have several trains that meet that criteria, where are you departing from?"
+      }
+    ],
+    [
+      {
+        "line": 37,
+        "content": "I will be leaving london kings cross."
+      },
+      {
+        "line": 38,
+        "content": "TR1681 will be departing london kings cross at 19:17, would you like to reserve a seat?"
+      },
+      {
+        "line": 39,
+        "content": "Yes, thank you. Can you book it for 3 people and provide the reference number for me?"
+      },
+      {
+        "line": 40,
+        "content": "There we go, all set. The reference number is AM5KZM91."
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "line": 1,
+        "content": "I am looking for a moderately priced Scottish restaurant"
+      },
+      {
+        "line": 2,
+        "content": "I'm so sorry but it seems that I don't show any that will suit what you are looking for. Would you like to try a different price range or type?"
+      },
+      {
+        "line": 3,
+        "content": "I am looking for something in centre of town then"
+      },
+      {
+        "line": 4,
+        "content": "Yes I have many moderately priced venues in the center of town serving British food if you like."
+      }
+    ],
+    [
+      {
+        "line": 5,
+        "content": "I am not looking for British, I am looking for scottish food."
+      },
+      {
+        "line": 6,
+        "content": "I'm sorry but there are no moderately priced Scottish restaurants in town. Would you like a different type of food?"
+      },
+      {
+        "line": 7,
+        "content": "Yes, Could you look for a Spanish restaurant instead?"
+      },
+      {
+        "line": 8,
+        "content": "There is la tasca. They are located at 14 -16 Bridge Street. Would you like to book it?"
+      }
+    ],
+    [
+      {
+        "line": 9,
+        "content": "Yes please. Could you give me a table for tuesday at 12:00 for 2 people please."
+      },
+      {
+        "line": 10,
+        "content": "I've booked your reservation. Is there anything else you need?"
+      },
+      {
+        "line": 11,
+        "content": "Can I have a reference number please?"
+      },
+      {
+        "line": 12,
+        "content": "Yes, it's XXNQ81IE."
+      }
+    ],
+    [
+      {
+        "line": 13,
+        "content": "I would like to find an Italian restaurant open for dinner?"
+      },
+      {
+        "line": 14,
+        "content": "I will need more information on what you are looking for, what area and what time?"
+      }
+    ],
+    [
+      {
+        "line": 15,
+        "content": "I am looking for a train departing from london liverpool street on thursday to go to cambridge."
+      },
+      {
+        "line": 16,
+        "content": "There are multiple trains available. By what time do you need to depart or arrive?"
+      },
+      {
+        "line": 17,
+        "content": "I need to arrive by 09:30. The booking is for me only and I will need a reference number please."
+      },
+      {
+        "line": 18,
+        "content": "How about the TR4204? It will arrive by 9:07."
+      }
+    ],
+    [
+      {
+        "line": 19,
+        "content": "That sounds good. Please book me for one person and give me the reference number."
+      },
+      {
+        "line": 20,
+        "content": "All done. You have 1 ticket on TR4204, Your reference number is 834POXTX. Can I do anything else for you?"
+      }
+    ],
+    [
+      {
+        "line": 21,
+        "content": "I have just been robbed and i am looking for assistance."
+      },
+      {
+        "line": 22,
+        "content": "Would you like the phone number for the Parkside Police Station, or are you in a different area?"
+      },
+      {
+        "line": 23,
+        "content": "Yes. Please give me the number for the Parkside police station so I can report the robbery."
+      },
+      {
+        "line": 24,
+        "content": "The number you're looking for is 01223358966."
+      }
+    ],
+    [
+      {
+        "line": 25,
+        "content": "I need to get a train out of cambridge."
+      },
+      {
+        "line": 26,
+        "content": "Your looking at the trainID of TR5767 or TR2000 depending on your time"
+      },
+      {
+        "line": 27,
+        "content": "The train should go to stansted airport and should arrive by 21:30."
+      },
+      {
+        "line": 28,
+        "content": "What day of the week are you looking at traveling?"
+      },
+      {
+        "line": 29,
+        "content": "I would like to leave on Tuesday."
+      },
+      {
+        "line": 30,
+        "content": "these three could help trainID departure destination day leaveAt arriveBy price duration book (optional) TR1656 cambridge stansted airport tuesday 05:40 06:08 10.10 pounds 28 minutes TR1951 cambridge stansted airport tuesday 06:40 07:08 10.10 pounds 28 minutes TR0684 cambridge stansted airport tuesday 07:40 08:08 10.10 pounds 28 minutes"
+      }
+    ],
+    [
+      {
+        "line": 31,
+        "content": "thank you for your help. book for me 5 seats and get me the reference numberes"
+      },
+      {
+        "line": 32,
+        "content": "I'm sorry, could you confirm which train you wanted to book seats on? There were 3 choices given to you."
+      }
+    ],
+    [
+      {
+        "line": 33,
+        "content": "Whichever train goes to stansted airport Tuesday from cabridge arriving closest to 21:30."
+      },
+      {
+        "line": 34,
+        "content": "Booking was successful, the total fee is 50.5 GBP payable at the station. Reference number is : GMYBPE6F."
+      }
+    ],
+    [
+      {
+        "line": 35,
+        "content": "I am looking for a restaurant that serves asian oriental food in the centre of town."
+      },
+      {
+        "line": 36,
+        "content": "Do you have a price range preference? There are two cheap, 1 moderate, and 1 expensive."
+      },
+      {
+        "line": 37,
+        "content": "I'm interested in a cheap place. What can you tell me about those?"
+      },
+      {
+        "line": 38,
+        "content": "We have dojo noodle bar, and j restaurant which are both cheap restaurants in the centre of town. Would you like to book one of those?"
+      }
+    ],
+    [
+      {
+        "line": 39,
+        "content": "Yes, get me a table for two at Dojo noodle bar on Wednesday at 16:00"
+      },
+      {
+        "line": 40,
+        "content": "There are no tables available at the time requested. Would you like to try another time or day?"
+      },
+      {
+        "line": 41,
+        "content": "Hmm.. can you try at 15:00 instead?"
+      },
+      {
+        "line": 42,
+        "content": "Booking was successful. The table will be reserved for 15 minutes. Reference number is : H6OB1O8J. Is there anything else I can help you with?"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "line": 1,
+        "content": "where can i go to eat"
+      },
+      {
+        "line": 2,
+        "content": "Papa Johns is located 7 miles away at 110 Arastradero Rd. Would you like directions there?"
+      },
+      {
+        "line": 3,
+        "content": "I need to find out the time and date for my tennis activity."
+      },
+      {
+        "line": 4,
+        "content": "Your tennis activity is the 5th at 5 pm."
+      }
+    ],
+    [
+      {
+        "line": 5,
+        "content": "Directions to a hotel please."
+      },
+      {
+        "line": 6,
+        "content": "The Westin is located 4 miles away and the Hotel Keen 6 miles away. Would you like directions to one of those?"
+      },
+      {
+        "line": 7,
+        "content": "Give me the quickest route to the Westin please."
+      },
+      {
+        "line": 8,
+        "content": "There is moderate traffic, would you like me to put it on your screen?"
+      }
+    ],
+    [
+      {
+        "line": 9,
+        "content": "Yes, please."
+      },
+      {
+        "line": 10,
+        "content": "Setting route now."
+      },
+      {
+        "line": 11,
+        "content": "I am looking for a train on sunday from cambridge."
+      },
+      {
+        "line": 12,
+        "content": "TR7423 cambridge london kings cross sunday 05:00 05:51 18.88 pounds 51 minutes"
+      }
+    ],
+    [
+      {
+        "line": 13,
+        "content": "Can you verify that it will arrive in stevenage by 09:00?"
+      },
+      {
+        "line": 14,
+        "content": "Ah, no, you will need another train to get to Stevenage. TR5390 leaves at 05:21 and TR3889 leaves at 07:21. Do you have a preference?"
+      }
+    ],
+    [
+      {
+        "line": 15,
+        "content": "I don't have a preference I just need to arrive by 09:00. Can you please provide me the travel time, departure time and price?"
+      },
+      {
+        "line": 16,
+        "content": "TR3889 departs at 07:21 and takes 49 minutes to arrive. The fee is 10.24 pounds. Would you like me to book that for you?"
+      }
+    ],
+    [
+      {
+        "line": 17,
+        "content": "can i get a hospital nearby which has a haematology day unit department"
+      },
+      {
+        "line": 18,
+        "content": "Addenbrookes Hospital is located at Hills Rd, Cambridge and has a haematology department. Do you need the phone number?"
+      },
+      {
+        "line": 19,
+        "content": "I need a phone number, postcode, and address"
+      },
+      {
+        "line": 20,
+        "content": "The address is Hills Road in Cambridge, CB20QQ. The phone number for haematology is 01223274679. Can I help you with anything else?"
+      },
+      {
+        "line": 21,
+        "content": "No, thank you"
+      },
+      {
+        "line": 22,
+        "content": "Here's the main hospital number as a backup: 01223245151. Do you have everything you need?"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "line": 1,
+        "content": "I am trying to find a train leaving after 15:15 to go to broxbourne."
+      },
+      {
+        "line": 2,
+        "content": "TR5694 cambridge broxbourne friday 16:01 17:01 17.90 pounds 60 minutes"
+      },
+      {
+        "line": 3,
+        "content": "Is there any that are closer to leaving at 15:15?"
+      },
+      {
+        "line": 4,
+        "content": "Which day were you planning to travel to Broxbourne?"
+      },
+      {
+        "line": 5,
+        "content": "I am looking at traveling on Sunday."
+      },
+      {
+        "line": 6,
+        "content": "Please confirm you are leaving from Cambridge. If yes, TR6870 leaving 16:01, hourly, is the closest time. 15:01 is too early."
+      }
+    ],
+    [
+      {
+        "line": 7,
+        "content": "Yes, I am leaving from Cambrige. How long is the travel time?"
+      },
+      {
+        "line": 8,
+        "content": "Booking was successful, the total fee is 14.32 GBP payable at the station . Reference number is : EWSOVUHU."
+      },
+      {
+        "line": 9,
+        "content": "Could you please tell me the train ID, arrival time, and travel time?"
+      },
+      {
+        "line": 10,
+        "content": "The travel time is 60 minutes."
+      },
+      {
+        "line": 11,
+        "content": "I need all three things please, train id, arrival time and travel time."
+      },
+      {
+        "line": 12,
+        "content": "Read the previous lines please! number TR6870, arrival 17:01, travel time 60 minutes."
+      }
+    ],
+    [
+      {
+        "line": 13,
+        "content": "I am looking for a place serving christmas food in the centre of town."
+      },
+      {
+        "line": 14,
+        "content": "It doesn't look like there are any restaurants of that type. Would you like to try a different cuisine?"
+      }
+    ],
+    [
+      {
+        "line": 15,
+        "content": "Do you have any Indian restaurants?"
+      },
+      {
+        "line": 16,
+        "content": "Yes, we have nine Indian restaurants in the center of town. Do you have a preference in price range?"
+      }
+    ],
+    [
+      {
+        "line": 17,
+        "content": "I actually would prefer gastropub type food and preferably in the moderate price range."
+      },
+      {
+        "line": 18,
+        "content": "The Cow Pizza Kitchen and Bar would be perfect for you! Would you like for me to book you a table?"
+      }
+    ],
+    [
+      {
+        "line": 19,
+        "content": "Are there any other options for gastropub?"
+      },
+      {
+        "line": 20,
+        "content": "The Cow Pizza Kitchen and Bar is the only gastropub in all of Cambridge."
+      },
+      {
+        "line": 21,
+        "content": "In that case, could you give me the address and phone number?"
+      },
+      {
+        "line": 22,
+        "content": "I sure can. The address is Corn Exchange Street, and the phone number is 01223308871. Can I help you with anything else today?"
+      },
+      {
+        "line": 23,
+        "content": "directions to local cafe"
+      },
+      {
+        "line": 24,
+        "content": "The nearest cafe is 1 mile away. Would you like the name and address of it?"
+      }
+    ],
+    [
+      {
+        "line": 25,
+        "content": "Yes and please provide the quickest route."
+      },
+      {
+        "line": 26,
+        "content": "The coffee shop is named Palo Alto Cafe and located at 436 Alger Drive."
+      },
+      {
+        "line": 27,
+        "content": "I'm looking for a place. I think it's called like Bridge House or Bridge Guesthouse or something."
+      },
+      {
+        "line": 28,
+        "content": "You are looking for the bridge guest house"
+      }
+    ],
+    [
+      {
+        "line": 29,
+        "content": "Could you book it for 3 people and 4 nights starting from thursday?"
+      },
+      {
+        "line": 30,
+        "content": "Booking was unsuccessful."
+      },
+      {
+        "line": 31,
+        "content": "Okay, book it for 4 nights starting Saturday."
+      },
+      {
+        "line": 32,
+        "content": "Booking was successful. Reference number is : EPWUAWM5."
+      }
+    ],
+    [
+      {
+        "line": 33,
+        "content": "Yes, I'm looking for a Cuban restaurant in the Centre."
+      },
+      {
+        "line": 34,
+        "content": "I don't see any Cuban restaurants in the Centre. Would you like to look for Cuban restaurants in another location?"
+      },
+      {
+        "line": 35,
+        "content": "Hmm okay can you search for chinese food instead then please?"
+      },
+      {
+        "line": 36,
+        "content": "There are 10 entries here. I recommend charlie chan."
+      }
+    ],
+    [
+      {
+        "line": 37,
+        "content": "That sounds great. Can I have their phone number and address?"
+      },
+      {
+        "line": 38,
+        "content": "Their phone number is 01223361763. Is there anything else I can do for you?"
+      },
+      {
+        "line": 39,
+        "content": "Yes, can I please get their postcode and address?"
+      },
+      {
+        "line": 40,
+        "content": "It is Regent Street City Centre, CB21DB"
+      }
+    ],
+    [
+      {
+        "line": 41,
+        "content": "Thank you very much, that's all the information that I need."
+      },
+      {
+        "line": 42,
+        "content": "You're welcome. If you need anything in the future, feel free to check back with us. Enjoy your stay!!"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "line": 1,
+        "content": "I need help finding a train leaving Cambridge after 20:45."
+      },
+      {
+        "line": 2,
+        "content": "Many trains leave Cambridge around 20:45, what is the destination?"
+      },
+      {
+        "line": 3,
+        "content": "I need to get to london liverpool street."
+      },
+      {
+        "line": 4,
+        "content": "I have several options for you, and the price and exact departure time varies by day of the week. Do you have a day preference?"
+      },
+      {
+        "line": 5,
+        "content": "I would like to leave on Thursday"
+      }
+    ],
+    [
+      {
+        "line": 6,
+        "content": "Train TR3695 leaves 21:59 and arrives on 23:27. Would you like to book it?"
+      },
+      {
+        "line": 7,
+        "content": "I am looking for a place serving Indian food in the west."
+      }
+    ],
+    [
+      {
+        "line": 8,
+        "content": "The Tandoori Palace is an excellent choice, though it's a bit expensive. Would you like a table there?"
+      },
+      {
+        "line": 9,
+        "content": "Yes, please book for 3 people at 13:15 on Monday. Include reference number, please."
+      },
+      {
+        "line": 10,
+        "content": "You are all set for 13:15 Monday. Your reference number is 36NIKCYF. Can I help you with anything else?"
+      },
+      {
+        "line": 11,
+        "content": "I need to find out the time and the parties attending my yoga activity."
+      }
+    ],
+    [
+      {
+        "line": 12,
+        "content": "You have two yoga activities scheduled. One at 3pm with Ana and another at 4pm with Jeff. Would you like to know the dates as well?"
+      },
+      {
+        "line": 13,
+        "content": "I'm sorry i didn't get that. You have two yoga activities scheduled. One at 3pm with Ana and another at 4pm with Jeff. Would you like to know the dates as well?"
+      },
+      {
+        "line": 14,
+        "content": "Hi, I am looking for a hospital, the Addenbrookes Hospital. Where is that please?"
+      },
+      {
+        "line": 15,
+        "content": "The hospital is located at Hills Rd, Cambridge. The postal code is CB20QQ. Do you need more information?"
+      }
+    ],
+    [
+      {
+        "line": 16,
+        "content": "I need their phone number, please."
+      },
+      {
+        "line": 17,
+        "content": "Their general phone number is 01223245151. Is there anything else you need?"
+      },
+      {
+        "line": 18,
+        "content": "That would be it. Thank you."
+      },
+      {
+        "line": 19,
+        "content": "welcome. at your service next time"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "line": 1,
+        "content": "I'm interested in finding an expensive guesthouse to stay at during my visit to Cambridge"
+      },
+      {
+        "line": 2,
+        "content": "I'm sorry I don't have any matches. Should we try a different price range?"
+      },
+      {
+        "line": 3,
+        "content": "Can you search for hotels instead of a guesthouse?"
+      },
+      {
+        "line": 4,
+        "content": "I have expensive hotels in the east, centre, and south areas of town. Do you have a preference?"
+      }
+    ],
+    [
+      {
+        "line": 5,
+        "content": "The east would be great."
+      },
+      {
+        "line": 6,
+        "content": "There is one in the east. It is express by holiday inn cambridge. Do you need a booking?"
+      },
+      {
+        "line": 7,
+        "content": "Does the Holiday Inn Cambridge have free parking? I forgot to tell you I need that."
+      },
+      {
+        "line": 8,
+        "content": "Yes, it has free parking. Would you like me to book that for you?"
+      }
+    ],
+    [
+      {
+        "line": 9,
+        "content": "No, what is the phone number for the hotel?"
+      },
+      {
+        "line": 10,
+        "content": "It is 01223866800. May I help with anything else?"
+      },
+      {
+        "line": 11,
+        "content": "Yes, can you please tell me how many stars it has?"
+      },
+      {
+        "line": 12,
+        "content": "It is a 2 star hotel. Would you like me to make those reservations?"
+      }
+    ],
+    [
+      {
+        "line": 13,
+        "content": "Hello, I am looking for a hospital in town. Can you please help me find one?"
+      },
+      {
+        "line": 14,
+        "content": "The Addenbrookes Hospital should suit whatever need you have."
+      },
+      {
+        "line": 15,
+        "content": "Can I have the address, please?"
+      },
+      {
+        "line": 16,
+        "content": "The address is Hills Rd, Cambridge. Is there anything else I can help you with?"
+      },
+      {
+        "line": 17,
+        "content": "Can you give me their phone number and postcode, please?"
+      },
+      {
+        "line": 18,
+        "content": "The telephone number is 01223245151 and the postcode is CB20QQ. May I help you with something else?"
+      }
+    ],
+    [
+      {
+        "line": 19,
+        "content": "Please help me find a restaurant that serves british food near the centre of town."
+      },
+      {
+        "line": 20,
+        "content": "There are seven restaurants in the centre of town that serve british food ranging from moderate to expensive. Is there a particular price range you are looking for?"
+      },
+      {
+        "line": 21,
+        "content": "I don't care about the price."
+      },
+      {
+        "line": 22,
+        "content": "Ok then. I suggest the oak bistro. It's located at 6 Lensfield Road. Would you like a reservation?"
+      }
+    ],
+    [
+      {
+        "line": 23,
+        "content": "No thanks, but could I please have the postcode?"
+      },
+      {
+        "line": 24,
+        "content": "The post code is cb21eg. Can I assist you further?"
+      },
+      {
+        "line": 25,
+        "content": "Can you please tell me the phone number?"
+      },
+      {
+        "line": 26,
+        "content": "The phone number is 01223323361."
+      }
+    ],
+    [
+      {
+        "line": 27,
+        "content": "Great, thanks for all your help."
+      },
+      {
+        "line": 28,
+        "content": "No problem. Did you need anything else?"
+      },
+      {
+        "line": 29,
+        "content": "There will be any hail in Danville during the week?"
+      },
+      {
+        "line": 30,
+        "content": "There is no hail in the forecast in Danville this week."
+      }
+    ],
+    [
+      {
+        "line": 31,
+        "content": "I sure hope so. I've been injured and I need a hospital."
+      },
+      {
+        "line": 32,
+        "content": "The closest hospital is located at Hills Rd, Cambridge."
+      },
+      {
+        "line": 33,
+        "content": "Do they have a children's oncology and haematology department?"
+      },
+      {
+        "line": 34,
+        "content": "Yes, their number is 01223217231."
+      },
+      {
+        "line": 35,
+        "content": "Can I please have the address and postcode?"
+      },
+      {
+        "line": 36,
+        "content": "The address is Hills Rd, Cambridge and the postcode is CB20QQ."
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "line": 1,
+        "content": "I'm going to be in the north part of town next week. Can you help me find a place to stay?"
+      },
+      {
+        "line": 2,
+        "content": "We have 13 places to stay on the north side of town. Do you have any preference of whether you'd like to stay in a hotel or a guesthouse?"
+      },
+      {
+        "line": 3,
+        "content": "Let's see...I'd like to get free internet. And if you have a place with 4 stars, that would rock!"
+      },
+      {
+        "line": 4,
+        "content": "There are quite a few that would meet those requirements. Would you prefer a cheap or moderate rate for your stay?"
+      },
+      {
+        "line": 5,
+        "content": "Honestly, the price range doesn't matter to me. Is there anything you can recommend?"
+      },
+      {
+        "line": 6,
+        "content": "I have the acorn guest house that is rated 4 stars and in the moderate price range."
+      }
+    ],
+    [
+      {
+        "line": 7,
+        "content": "That sounds good. What's its phone number, please?"
+      },
+      {
+        "line": 8,
+        "content": "The phone number is 01223353888. Would you like any other info?"
+      },
+      {
+        "line": 9,
+        "content": "Can you please help me find a place to go?"
+      },
+      {
+        "line": 10,
+        "content": "I've found 79 places for you to go. Do you have any specific ideas in mind?"
+      }
+    ],
+    [
+      {
+        "line": 11,
+        "content": "I'd like a sports place in the centre please."
+      },
+      {
+        "line": 12,
+        "content": "There are no results matching your query. Can I try a different area or type?"
+      },
+      {
+        "line": 13,
+        "content": "Okay, are there any cinemas in the centre?"
+      },
+      {
+        "line": 14,
+        "content": "we have vue cinema"
+      },
+      {
+        "line": 15,
+        "content": "Okay that will work. Can you please tell me their phone number, postcode and the entrance fee?"
+      },
+      {
+        "line": 16,
+        "content": "Vue can be reached at 08712240240, the postcode is CB11PS. I do not have entrance fee information, I'm sorry."
+      }
+    ],
+    [
+      {
+        "line": 17,
+        "content": "I am looking for a train from Cambridge to Leicester."
+      },
+      {
+        "line": 18,
+        "content": "What day will you be leaving?"
+      }
+    ],
+    [
+      {
+        "line": 19,
+        "content": "I will be leaving on Monday."
+      },
+      {
+        "line": 20,
+        "content": "There are 19 trains, would you like me to book you one?"
+      },
+      {
+        "line": 21,
+        "content": "I need to arrive in Leicester by 21:15, do you have one like that?"
+      },
+      {
+        "line": 22,
+        "content": "There's a train arriving at 21:06. Would you like to book that train now?"
+      }
+    ],
+    [
+      {
+        "line": 23,
+        "content": "That will probably work. What is the travel time for that train?"
+      },
+      {
+        "line": 24,
+        "content": "It will be a 105 minute trip"
+      },
+      {
+        "line": 25,
+        "content": "Where is the hospital?"
+      },
+      {
+        "line": 26,
+        "content": "The hospital Stanford Express Care is 2 miles away: do you want me to send you its position on screen?"
+      }
+    ],
+    [
+      {
+        "line": 27,
+        "content": "Yes, Thank you"
+      },
+      {
+        "line": 28,
+        "content": "The address is 214 El Camino Real. Should we navigate there now?"
+      },
+      {
+        "line": 29,
+        "content": "Yes, hello. I'd like to book a taxi to what I believe is a restaurant."
+      },
+      {
+        "line": 30,
+        "content": "Sure, I can do that. Do you know the name of the restaurant? Also, when would you like to be picked up and arrive by?"
+      }
+    ],
+    [
+      {
+        "line": 31,
+        "content": "Yes, Oak Bistro and will depart from Sheep's Green and Lammas land park fen causeway."
+      },
+      {
+        "line": 32,
+        "content": "Ok great, I will also need to know what your preferences are for your pick up and arrival times to book your taxi."
+      }
+    ],
+    [
+      {
+        "line": 33,
+        "content": "I would like to arrive by 16:45. I will need a contact number and car type as well."
+      },
+      {
+        "line": 34,
+        "content": "I have that booked, a red ford and the contact info is 07756177529"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "line": 1,
+        "content": "Schedule a dinner at 6pm, on the 15th of this month, with my sister"
+      },
+      {
+        "line": 2,
+        "content": "Could you help me find a boat to visit on the north side?"
+      },
+      {
+        "line": 3,
+        "content": "I have one in that area. It's called the Riverboat Georgina. It's located at Cambridge Passenger Cruisers, Jubilee House. Would you like their phone number for more information?"
+      },
+      {
+        "line": 4,
+        "content": "Yes, I want the phone number and also the entrance fee, please."
+      },
+      {
+        "line": 5,
+        "content": "Their phone number is 01223902091 and we do not have the entrance fee in our database at this time."
+      },
+      {
+        "line": 6,
+        "content": "I need to get to bangkok city by 12:00 today. Can you help?"
+      },
+      {
+        "line": 7,
+        "content": "I'd be happy to help! Where are you coming from?"
+      }
+    ],
+    [
+      {
+        "line": 8,
+        "content": "I'm coming from jesus green outdoor pool."
+      },
+      {
+        "line": 9,
+        "content": "Alright, I have arranged for a grey toyota to take you. They can be reached at 07230483691. Anything else I can do for you?"
+      },
+      {
+        "line": 10,
+        "content": "Am looking for the Addenbrookes Hospital"
+      },
+      {
+        "line": 11,
+        "content": "I have the location on Hills Road in Cambridge with a phone number of 01223245151."
+      }
+    ],
+    [
+      {
+        "line": 12,
+        "content": "Thanks, can I get the postcode?"
+      },
+      {
+        "line": 13,
+        "content": "The postcode is CB20QQ."
+      }
+    ],
+    [
+      {
+        "line": 14,
+        "content": "I would like to book a taxi to leave from cow pizza kitchen and bar after 17:15."
+      },
+      {
+        "line": 15,
+        "content": "Where are you wanting the taxi to take you?"
+      }
+    ],
+    [
+      {
+        "line": 16,
+        "content": "I would like to go to Bishops Stortford Train Station. Could you send me the contact number and car type, as well?"
+      },
+      {
+        "line": 17,
+        "content": "It's a black Volvo, the contact number is 0 7 4 6 2 8 4 7 7 3 5. That's 0 7 4 6 2 8 1 4 4 3 5."
+      },
+      {
+        "line": 18,
+        "content": "Can you please confirm that my booking is set? Thank you."
+      },
+      {
+        "line": 19,
+        "content": "Yes, that booking has been completed. Is there anything else I can help with?"
+      },
+      {
+        "line": 20,
+        "content": "What time will it arrive?"
+      },
+      {
+        "line": 21,
+        "content": "Well, that depends on traffic, of course, but you'll definitely be picked up by 17:15. Can I help with anything else today?"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "line": 1,
+        "content": "Please give me the address and directions to a coffee shop via the quickest route."
+      },
+      {
+        "line": 2,
+        "content": "Peets coffee is located at 9981 Archuleta Ave, 1 mile away in heavy traffic. Setting directions now."
+      },
+      {
+        "line": 3,
+        "content": "Can we avoid the heavy traffic at all?"
+      },
+      {
+        "line": 4,
+        "content": "We will avoid the heavy traffic to Peets.."
+      }
+    ],
+    [
+      {
+        "line": 5,
+        "content": "Help me reserve a taxi please"
+      },
+      {
+        "line": 6,
+        "content": "Okay, what is your departure site?"
+      },
+      {
+        "line": 7,
+        "content": "I will be leaving from pizza express Fen Ditton"
+      },
+      {
+        "line": 8,
+        "content": "Okay. Can I get a time that you'd like to leave after or arrive by?"
+      },
+      {
+        "line": 9,
+        "content": "I'd like to arrive at the Sidney Sussex College by 12:45, please."
+      },
+      {
+        "line": 10,
+        "content": "Great, you will be picked up in a white toyota, the contact number is 07519220407. Is there anything else I can do for you?"
+      }
+    ],
+    [
+      {
+        "line": 11,
+        "content": "I'm interesting in info about 3-star hotels and such that offer free wifi."
+      },
+      {
+        "line": 12,
+        "content": "I have two hotels that match the description of 3 star ratings. Are you looking for a hotel in the centre or south area?"
+      }
+    ],
+    [
+      {
+        "line": 13,
+        "content": "the location doesn't matter so long as it has free wifi"
+      },
+      {
+        "line": 14,
+        "content": "The Gonville Hotel is supposed to be great and it offers free wifi. Would you like me to book you a room?"
+      },
+      {
+        "line": 15,
+        "content": "book it for 5 people and 2 nights starting from monday."
+      },
+      {
+        "line": 16,
+        "content": "Sorry, it looks like the hotel can't accommodate you for that amount of time."
+      }
+    ],
+    [
+      {
+        "line": 17,
+        "content": "Perhaps starting sunday instead?"
+      },
+      {
+        "line": 18,
+        "content": "Great, your reference number is O8VH7VL6. Is there anything else I can help with?"
+      }
+    ],
+    [
+      {
+        "line": 19,
+        "content": "Book me a taxi to vue cinema"
+      },
+      {
+        "line": 20,
+        "content": "Sure thing, when would you like to get there by?"
+      }
+    ],
+    [
+      {
+        "line": 21,
+        "content": "I want to leave after 08:30 from la mimosa"
+      },
+      {
+        "line": 22,
+        "content": "I can definitely help! Where are you departing from?"
+      },
+      {
+        "line": 23,
+        "content": "As I said, I will be leaving from La Minosa."
+      },
+      {
+        "line": 24,
+        "content": "I've booked a yellow Tesla for you, the contact number is: 07908194770"
+      },
+      {
+        "line": 25,
+        "content": "I am looking for a nearest police station"
+      },
+      {
+        "line": 26,
+        "content": "The Parkside Police Station address is Parkside, Cambridge, postcode CB11JG, and the telephone is 01223358966."
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "line": 1,
+        "content": "I need a train to Cambridge."
+      },
+      {
+        "line": 2,
+        "content": "Sure, where will you be boarding and what day would you like to leave?"
+      },
+      {
+        "line": 3,
+        "content": "I will board at King's Lynn, before 13:30 on Tuesday."
+      },
+      {
+        "line": 4,
+        "content": "I have 8 routes which will arrive in Cambridge by 13:30. They leave hourly on the :11 from 05:11 to 12:11, lasting 47 minutes. Would you like to book?"
+      },
+      {
+        "line": 5,
+        "content": "I would like the train that arrives closest to 13:30 please. I will also need the departure time."
+      },
+      {
+        "line": 6,
+        "content": "TR8699 departs Tuesday at 12:11 and arrives in Cambridge at 12:58. Would you like to book it?"
+      }
+    ],
+    [
+      {
+        "line": 7,
+        "content": "No, I am not sure I am traveling just yet. Thanks for the information, I am all set for now. Have a nice day."
+      },
+      {
+        "line": 8,
+        "content": "Okay, is there anything else I can help you with?"
+      },
+      {
+        "line": 9,
+        "content": "I am trying to find a really neat museum to visit. Would you be able to tell me whats available out there?"
+      },
+      {
+        "line": 10,
+        "content": "We have many interesting museums, such as the Cambridge Artworks, Cambridge Museum of Technology, and the Whipple Museum of the History of Science. Anything in particular strike your fancy?"
+      }
+    ],
+    [
+      {
+        "line": 11,
+        "content": "Are any of them in the centre?"
+      },
+      {
+        "line": 12,
+        "content": "Actually, I have 11 of them in the centre area. Might I suggest the Broughton House Gallery. It has free entrance and is located at 98 King Street."
+      },
+      {
+        "line": 13,
+        "content": "That would be perfect. Can I get the phone number, please?"
+      },
+      {
+        "line": 14,
+        "content": "Yes. Their phone number is 01223314960. Can I help you with anything else?"
+      }
+    ],
+    [
+      {
+        "line": 15,
+        "content": "Hi, I need a 4 star guesthouse hotel please."
+      },
+      {
+        "line": 16,
+        "content": "I have 21 4 star places, can you tell me what area you would like to be in?"
+      },
+      {
+        "line": 17,
+        "content": "The North part of town, please."
+      },
+      {
+        "line": 18,
+        "content": "There are quite a few. If you'd like a cheap alternative, I can recommend Worth House, on Chesterton Road. Or for a moderate rate, Kirkwood House is next door."
+      }
+    ],
+    [
+      {
+        "line": 19,
+        "content": "Could you book the Kirkwood House for me for thursday, 6 people and 5 nights?"
+      },
+      {
+        "line": 20,
+        "content": "Your booking was successful. The reference number is 6G15LHZM. Is there anything else?"
+      }
+    ],
+    [
+      {
+        "line": 21,
+        "content": "I need a train from leicester sometime after 9:30."
+      },
+      {
+        "line": 22,
+        "content": "I can assist you with that. What day would you like to leave?"
+      },
+      {
+        "line": 23,
+        "content": "I need to be in Cambridge on Monday please."
+      },
+      {
+        "line": 24,
+        "content": "Very well. The earliest train is TR0032, which leaves at 10:09. Is that alright?"
+      },
+      {
+        "line": 25,
+        "content": "Could you give me the arrival time and price on that please?"
+      },
+      {
+        "line": 26,
+        "content": "TR0032 arrives at 11:54 and costs 37.80 pounds. May I book that for you?"
+      }
+    ],
+    [
+      {
+        "line": 27,
+        "content": "Yes, that would be terrific."
+      },
+      {
+        "line": 28,
+        "content": "Great, I have booked your ticket, your reference number is : I6NJ8FUB. may I help you with anything else?"
+      },
+      {
+        "line": 29,
+        "content": "Will there be frost in Atherton on Friday?"
+      },
+      {
+        "line": 30,
+        "content": "There should not be any frost in Atherton on Friday"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "line": 1,
+        "content": "Schedule a optometrist appointment on the 7th at 2 pm with Jon."
+      },
+      {
+        "line": 2,
+        "content": "Okay, scheduling a optometrist appointment with Jon for the 7th at 2pm."
+      },
+      {
+        "line": 3,
+        "content": "give me the weather for next week"
+      },
+      {
+        "line": 4,
+        "content": "What location are you wanting to know the weather for?"
+      },
+      {
+        "line": 5,
+        "content": "Will it be foggy in New York next week?"
+      }
+    ],
+    [
+      {
+        "line": 6,
+        "content": "It will not be foggy in New York next week."
+      },
+      {
+        "line": 7,
+        "content": "Hi, I need to get in from King's Lynn to Cambridge"
+      }
+    ],
+    [
+      {
+        "line": 8,
+        "content": "There are 133 trains making that trip, do you have a day and time you want to travel?"
+      },
+      {
+        "line": 9,
+        "content": "I'm looking to leave Friday after 21:15, if you could book me a reservation for that time period that would be great."
+      },
+      {
+        "line": 10,
+        "content": "TR0672 departs at 22:11. Can you tell me how many tickets you need?"
+      },
+      {
+        "line": 11,
+        "content": "I need 2 please."
+      },
+      {
+        "line": 12,
+        "content": "Booking was successful, the total fee is 19.6 GBP payable at the station. Reference number is : 4J73XCBG. Is there anything else I can help with?"
+      },
+      {
+        "line": 13,
+        "content": "Will there be cloudy weather in Atherton in the next 7 days?"
+      }
+    ],
+    [
+      {
+        "line": 14,
+        "content": "It should be cloudy Tuesday in Atherton."
+      },
+      {
+        "line": 15,
+        "content": "What days are supposed to be cloudy in Atherton?"
+      }
+    ],
+    [
+      {
+        "line": 16,
+        "content": "Can you tell me about moderately priced places to stay on the north side of town?"
+      },
+      {
+        "line": 17,
+        "content": "There are 11 places to stay in the north part of town that are moderately priced. Do you have a need for parking or internet?"
+      }
+    ],
+    [
+      {
+        "line": 18,
+        "content": "Yes, I'd love to have free internet, and I'd really like to stay at a guest house if possible."
+      },
+      {
+        "line": 19,
+        "content": "The Arbury Lodge Guesthouse has a 4 star rating. Would you like me to book it for you?"
+      },
+      {
+        "line": 20,
+        "content": "Sure. Please book for 6 people and 3 nights starting Tuesday."
+      },
+      {
+        "line": 21,
+        "content": "I've successfully booked your room. The reference number is VZCXFU9V."
+      },
+      {
+        "line": 22,
+        "content": "Can I please have the address?"
+      },
+      {
+        "line": 23,
+        "content": "They are located at 82 arbury road. Do you need anything else?"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "line": 1,
+        "content": "I am looking to leave for bishops stortford after 15:15 by train."
+      },
+      {
+        "line": 2,
+        "content": "Certainly. Where are you departing from?"
+      },
+      {
+        "line": 3,
+        "content": "I'll be leaving from Cambridge."
+      },
+      {
+        "line": 4,
+        "content": "I have several trains, when would you like to arrive by?"
+      }
+    ],
+    [
+      {
+        "line": 5,
+        "content": "The arrival time does not matter, but it should leave on Sunday after 15:15."
+      },
+      {
+        "line": 6,
+        "content": "Booking was successful, the total fee is 8.08 GBP payable at the station. Reference number is : V6E0H0GJ. Is there anything else I can help with?"
+      }
+    ],
+    [
+      {
+        "line": 7,
+        "content": "Were you able to book it for 4 people?"
+      },
+      {
+        "line": 8,
+        "content": "I was able to book 4 tickets. The total fee will be 32.32 pounds, payable at the station. The reference number is BPUJ9ISP. Can I help you with anything else?"
+      }
+    ],
+    [
+      {
+        "line": 9,
+        "content": "Car, will you schedule a Doctor's appointment for me? Set it for 11 am, tomorrow, with Jon."
+      },
+      {
+        "line": 10,
+        "content": "I sure will. It's all set! Anything else?"
+      }
+    ],
+    [
+      {
+        "line": 11,
+        "content": "No, thank you so much!"
+      },
+      {
+        "line": 12,
+        "content": "Okay, i will schedule your doctor appointment with Jon for tomorrow at 11 am."
+      },
+      {
+        "line": 13,
+        "content": "I am looking for a train departing from london liverpool please."
+      },
+      {
+        "line": 14,
+        "content": "I'll be glad to help. You would like to from london liverpool street to what destination, please?"
+      },
+      {
+        "line": 15,
+        "content": "Cambridge. I'd like to leave after 10:00 on Friday."
+      },
+      {
+        "line": 16,
+        "content": "I have seven trains, could you tell me when you would like to arrive by ?"
+      }
+    ],
+    [
+      {
+        "line": 17,
+        "content": "Just any time after 10:00, can I get the train ID of one of them please?"
+      },
+      {
+        "line": 18,
+        "content": "TR7943 leaves at 11:39"
+      },
+      {
+        "line": 19,
+        "content": "what is the date time and location of my next conference"
+      },
+      {
+        "line": 20,
+        "content": "Your next conference will take place on Thursday at 1 pm in conference room 50."
+      },
+      {
+        "line": 21,
+        "content": "Can you help me find a taxi to old schools?"
+      },
+      {
+        "line": 22,
+        "content": "Where will you be departing from?"
+      }
+    ],
+    [
+      {
+        "line": 23,
+        "content": "I'm departing from thanh binh."
+      },
+      {
+        "line": 24,
+        "content": "What time would like to get there?"
+      },
+      {
+        "line": 25,
+        "content": "I need to get there by 11:15."
+      },
+      {
+        "line": 26,
+        "content": "Alright I've got a blue volkswagen and the contact number is 07339810111. Anything else I can do"
+      }
+    ]
+  ]
+]
