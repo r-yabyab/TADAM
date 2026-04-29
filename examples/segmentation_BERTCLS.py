@@ -43,14 +43,17 @@ def segmentation(documents):
     model.eval()
 
     all_cut_list = []
-    pbar = tqdm(total=len(documents))
-    for document_o in documents:
+    # pbar = tqdm(total=len(documents))
+    # for document_o in documents:
+    pbar = tqdm(documents, total=len(documents), unit="conv", position=0)
+    for document_o in pbar:
         if(len(document_o)%2):
             document=document_o[1:]
         else:
             document = document_o
         cut_index=0
         cut_list = []
+        inner_pbar = tqdm(total=len(document), unit="msg", position=1, leave=False)
         while(cut_index<len(document)):
             left_sent=""
             i=0
@@ -112,7 +115,10 @@ def segmentation(documents):
 
             cut_list.append(final_cutpoint)
             # print(final_cutpoint)
+            prev_cut_index = cut_index
             cut_index=final_cutpoint+1
+            inner_pbar.update(cut_index - prev_cut_index)
+        inner_pbar.close()
         if(len(document_o)%2):
             cut_list_new=[i+1 for i in cut_list]
         else:
@@ -121,7 +127,7 @@ def segmentation(documents):
             cut_list_new = [0]
         assert cut_list_new[-1] == len(document_o) - 1
         all_cut_list.append(cut_list_new)
-        pbar.update(1)
+        # pbar.update(1)
     pbar.close()
     # with open(CUTLIST_FILE,'w') as wf:
     #     wf.write(json.dumps(all_cut_list, ensure_ascii=False))
@@ -186,15 +192,39 @@ def segment_my_file(input_json_path, output_json_path):
     for document, cut_list in zip(documents, all_cut_list):
         segments = []
         prev = 0
+        msg_index = 0
         for cut in cut_list:
+            seg_msgs = document[prev:cut + 1]
             # just message
-            segments.append(document[prev:cut + 1])
-    
+            # segments.append(document[prev:cut + 1])
             # adds line before message
             # segment = [{"line": prev + i + 1, "content": document[prev + i]} for i in range(cut - prev + 1)]
             # segments.append(segment)
-            
+            # per-segment role reset (roles restart at Person_1 each segment)
+            # segment = [
+            #     {"role": "Person_1" if i % 2 == 0 else "Person_2", "content": seg_msgs[i]}
+            #     for i in range(len(seg_msgs))
+            # ]
+            # segments.append(segment)
+            # If this segment would start on Person_2 (odd msg_index),
+            # move that first message to the previous segment so every
+            # segment starts with Person_1. msg_index keeps incrementing
+            # globally so the Person_1/Person_2 order across the whole
+            # file is never disturbed.
+            if msg_index % 2 == 1 and segments:
+                first_msg = seg_msgs[0]
+                segments[-1].append({"role": "Person_2", "content": first_msg})
+                msg_index += 1
+                seg_msgs = seg_msgs[1:]
+
+            segment = []
+            for msg in seg_msgs:
+                segment.append({"role": "Person_1" if msg_index % 2 == 0 else "Person_2", "content": msg})
+                msg_index += 1
+            if segment:
+                segments.append(segment)
             prev = cut + 1
+
         segmented_documents.append(segments)
 
     with open(output_json_path, 'w', encoding='utf-8') as f:
