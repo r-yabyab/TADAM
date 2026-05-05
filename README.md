@@ -1,3 +1,5 @@
+segmentation takes 30min on cpu, 2 minutes on gpu (aws)
+
 ## Dataset
 Please download datasets to the corresponding directory under "data"
 
