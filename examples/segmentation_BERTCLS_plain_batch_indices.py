@@ -1,7 +1,6 @@
 import torch
 from tqdm import tqdm
 import json
-import argparse
 import numpy as np
 import os
 import glob
@@ -10,7 +9,11 @@ from transformers import BertConfig, BertModel, BertTokenizer
 from utils_segmentation import convert_examples_to_features, read_expamples_2
 
 """
-main one, .json (token size filtered) to .jsonl with segments (to be filtered)
+Like segmentation_BERTCLS_plain_batch.py but outputs only the segment split
+indices (cut point positions) instead of the full conversation segments.
+
+Each output line is a JSON array of integer cut-point indices for one
+conversation, e.g. [3, 7, 11, 15]
 """
 
 
@@ -128,77 +131,24 @@ def segmentation(documents, model, tokenizer, device):
 
 
 def segment_file(input_json_path, output_jsonl_path, model, tokenizer, device):
-    """Segment a single plain JSON conversation file and write pairs_grouped_topics-style JSONL."""
+    """Segment a single plain JSON conversation file and write only the cut-point indices."""
     with open(input_json_path, 'r', encoding='utf-8') as f:
         documents = json.load(f)
 
-    # Each plain JSON file contains one conversation: [[msg1, msg2, ...]]
     all_cut_list = segmentation(documents, model, tokenizer, device)
 
     with open(output_jsonl_path, 'w', encoding='utf-8') as out_f:
-        for document, cut_list in zip(documents, all_cut_list):
-            segments = []
-            prev = 0
-            msg_index = 0
-            for cut in cut_list:
-                seg_msgs = document[prev:cut + 1]
-
-                # If this segment would start on Person_2 (odd msg_index),
-                # move that first message to the previous segment so every
-                # segment starts with Person_1.
-                if msg_index % 2 == 1 and segments:
-                    first_msg = seg_msgs[0]
-                    segments[-1]["messages"].append({"role": "Person_2", "content": first_msg})
-                    msg_index += 1
-                    seg_msgs = seg_msgs[1:]
-
-                messages = []
-                for msg in seg_msgs:
-                    messages.append({
-                        "role": "Person_1" if msg_index % 2 == 0 else "Person_2",
-                        "content": msg,
-                    })
-                    msg_index += 1
-
-                if messages:
-                    segments.append({"segment_id": len(segments), "messages": messages})
-                prev = cut + 1
-
-            # Drop any trailing Person_1 messages from the last segment (no
-            # Person_2 response exists for them).  This happens when the
-            # conversation has an odd number of messages and the final cut
-            # lands on a Person_1 message.
-            # if segments:
-            #     while segments[-1]["messages"] and segments[-1]["messages"][-1]["role"] == "Person_1":
-            #         segments[-1]["messages"].pop()
-            #     if not segments[-1]["messages"]:
-            #         segments.pop()
-
-            # # Re-number segment_ids after any removal
-            # for idx, seg in enumerate(segments):
-            #     seg["segment_id"] = idx
-
-            for seg in segments:
-                out_f.write(json.dumps(seg, ensure_ascii=False) + '\n')
+        for cut_list in all_cut_list:
+            out_f.write(json.dumps(cut_list, ensure_ascii=False) + '\n')
 
     print(f"  -> {output_jsonl_path}")
 
 
-parser = argparse.ArgumentParser()
-parser.add_argument("--berttype",
-                    default='bert-base-uncased',
-                    type=str,
-                    help="The type of BERT model to use")
-parser.add_argument("--input_dir",
-                    default=None,
-                    type=str,
-                    help="Directory containing plain JSON files to process (default: ../data/transformed/plain)")
-args = parser.parse_args()
+BERT_TYPE = 'bert-base-uncased'
 
 
 if __name__ == '__main__':
-    input_dir = args.input_dir or os.path.join(os.path.dirname(__file__), '..', 'data', 'transformed', 'plain')
-    input_dir = os.path.normpath(input_dir)
+    input_dir = os.path.normpath(os.path.join(os.path.dirname(__file__), '..', 'data', 'transformed', 'plain'))
 
     json_files = sorted(glob.glob(os.path.join(input_dir, '*.json')))
     if not json_files:
@@ -210,17 +160,17 @@ if __name__ == '__main__':
     # Load model once and reuse across all files
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
     config_class, model_class, tokenizer_class = MODEL_CLASSES['bert']
-    config = config_class.from_pretrained(args.berttype)
-    tokenizer = tokenizer_class.from_pretrained(args.berttype, do_lower_case=True)
-    model = model_class.from_pretrained(args.berttype, config=config).to(device)
+    config = config_class.from_pretrained(BERT_TYPE)
+    tokenizer = tokenizer_class.from_pretrained(BERT_TYPE, do_lower_case=True)
+    model = model_class.from_pretrained(BERT_TYPE, config=config).to(device)
     model.eval()
 
-    output_dir = os.path.join(input_dir, 'plain_pairs')
+    output_dir = os.path.join(input_dir, 'indices')
     os.makedirs(output_dir, exist_ok=True)
 
     for json_path in json_files:
         base = os.path.splitext(os.path.basename(json_path))[0]  # strip .json
-        output_path = os.path.join(output_dir, base + '_topics.jsonl')
+        output_path = os.path.join(output_dir, base + '_cutoffs.jsonl')
         print(f"Processing: {os.path.basename(json_path)}")
         segment_file(json_path, output_path, model, tokenizer, device)
 
